@@ -20,16 +20,16 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords
 keywords:
-  "Robot & Agent":
-    filters: ["Embodied Agent", "Robot Learning", "Robot Policy", "Robot Policies", "Human-Robot", "Cross-Embodiment"]
-  "Robotic Manipulation":
-    filters: ["Robot Manipulation", "Robotic Manipulation", "Grasp", "Robot Grasp", "World Model"]
-  "Vision Language Action Model":
-    filters: ["Vision-Language-Action Model", "Vision Language Action Model"]
-  "Imitation Learning":
-    filters: ["Imitation Learning", "Behavior Cloning", "Behavioral Cloning"]
-  "Robotic Navigation":
-    filters: ["Robot Navigation", "Vision-and-Language Navigation", "Vision Language Navigation", "Vision-Language-Navigation"]
+  "Context Engineering & Prompting": 
+    "filters": ["Context Engineering", "Prompt Engineering", "In-Context Learning", "Few-Shot Prompting", "Instruction Tuning", "Context-Aware Models"]
+  "Retrieval-Augmented Generation (RAG)": 
+    "filters": ["Retrieval-Augmented Generation", "Information Retrieval", "Vector Database", "Dense Retrieval", "Knowledge Grounding", "Query Transformation", "Reranking"]
+  "Context Optimization & Management": 
+    "filters": ["Context Management", "Context Compression", "Prompt Compression", "Context Window", "Token Optimization", "Information Density", "Context Filtering", "Summarization"]
+  "LLM Reasoning & Strategy": 
+    "filters": ["Chain-of-Thought", "Step-by-Step Reasoning", "Self-Correction", "In-Context Reasoning", "Prompt Chaining", "Decomposition", "Logical Reasoning"]
+  "Agentic Architecture & Orchestration": 
+    "filters": ["LLM Agent", "Tool-Augmented LLMs", "Function Calling", "Agentic Workflow", "Orchestration", "Agent Memory", "State Management", "LLM as Controller"]
 #   "DA & DG":
 #     filters: ["Domain Adaptation", "Unsupervised Domain Adaptation", "Source-free Domain Adaptation", "Test-time Domain Adaptation",
 #       "Domain Generalization", "Source-free Domain Generalization", "Test-time Domain Generalization"]
