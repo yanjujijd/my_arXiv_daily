@@ -475,7 +475,7 @@ layout: default
 |**2025-09-01**|**DPF-CM: A Data Processing Framework with Privacy-Preserving Vector Databases for Chinese Medical LLMs Training and Deployment**|Wei Huang et.al.|[2509.01354](https://arxiv.org/abs/2509.01354)|null|
 |**2025-09-01**|**Street-Level Geolocalization Using Multimodal Large Language Models and Retrieval-Augmented Generation**|Yunus Serhat Bicakci et.al.|[2509.01341](https://arxiv.org/abs/2509.01341)|null|
 |**2025-09-01**|**Re3: Learning to Balance Relevance & Recency for Temporal Information Retrieval**|Jiawei Cao et.al.|[2509.01306](https://arxiv.org/abs/2509.01306)|null|
-|**2025-09-01**|**MARS: Modality-Aligned Retrieval for Sequence Augmented CTR Prediction**|Yutian Xiao et.al.|[2509.01184](https://arxiv.org/abs/2509.01184)|null|
+|**2025-09-01**|**MARS: Modality-Aligned Retrieval for Sequence Augmented CTR Prediction**|Yutian Xiao et.al.|[2509.01184](https://arxiv.org/abs/2509.01184)|**[link](https://github.com/wangshukuan/MARS)**|
 |**2025-09-01**|**Question-to-Knowledge: Multi-Agent Generation of Inspectable Facts for Product Mapping**|Wonduk Seo et.al.|[2509.01182](https://arxiv.org/abs/2509.01182)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
 |**2025-09-01**|**Beyond the Surface: A Solution-Aware Retrieval Model for Competition-level Code Generation**|Shiwen Zhang et.al.|[2509.01129](https://arxiv.org/abs/2509.01129)|null|
 |**2025-09-01**|**MatPROV: A Provenance Graph Dataset of Material Synthesis Extracted from Scientific Literature**|Hirofumi Tsuruta et.al.|[2509.01042](https://arxiv.org/abs/2509.01042)|**[link](https://huggingface.co/datasets/MatPROV-project/MatPROV)**|
@@ -719,7 +719,7 @@ layout: default
 |**2025-09-04**|**Reinforced Data-Driven Estimation for Spectral Properties of Koopman Semigroup in Stochastic Dynamical Systems**|Yuanchao Xu et.al.|[2509.04265](https://arxiv.org/abs/2509.04265)|null|
 |**2025-09-04**|**Multi-Spectroscopic Method to Quantify Rapid Decomposition of an Organophosphate Simulant Using Reactive Materials as a Function of Metal Powder Chemistry and Temperature**|Preetom Borah et.al.|[2509.04236](https://arxiv.org/abs/2509.04236)|null|
 |**2025-09-04**|**Non-unique decompositions of mixed states and deterministic energy transfers**|Zihan Wang et.al.|[2509.04235](https://arxiv.org/abs/2509.04235)|null|
-|**2025-09-04**|**KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis**|Omri Sgan Cohen et.al.|[2509.04191](https://arxiv.org/abs/2509.04191)|**[link](https://github.com/songfish/cv-arxiv-daily)**|
+|**2025-09-04**|**KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis**|Omri Sgan Cohen et.al.|[2509.04191](https://arxiv.org/abs/2509.04191)|null|
 |**2025-09-04**|**Grain boundary energy models and boundary splitting**|Adam Morawiec et.al.|[2509.04109](https://arxiv.org/abs/2509.04109)|null|
 |**2025-09-04**|**Two-Timescale Sum-Rate Maximization for Movable Antenna Enhanced Systems**|Xintai Chen et.al.|[2509.04062](https://arxiv.org/abs/2509.04062)|null|
 |**2025-09-04**|**RTQA : Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models**|Zhaoyan Gong et.al.|[2509.03995](https://arxiv.org/abs/2509.03995)|null|
@@ -743,7 +743,7 @@ layout: default
 |**2025-09-03**|**On Charge Conjugation, Correlations, Elitzur's Theorem and the Mass Gap Problem in Lattice $SU(N)$ Yang-Mills Models in $d=4$ Dimensions**|Paulo A. Faria da Veiga et.al.|[2509.03513](https://arxiv.org/abs/2509.03513)|null|
 |**2025-09-03**|**A Brenier Theorem on $(\mathcal{P}_2 (\mathcal{P}_2(\mathbb{R}^d )), W_2 )$ and Applications to Adapted Transport**|Mathias Beiglböck et.al.|[2509.03506](https://arxiv.org/abs/2509.03506)|null|
 |**2025-09-03**|**Local Well-Posedness for the Bartnik Stationary Extension Problem near Schwarzschild Spheres**|Ahmed Ellithy et.al.|[2509.03478](https://arxiv.org/abs/2509.03478)|null|
-|**2025-09-04**|**Bayesian Additive Regression Trees for functional ANOVA model**|Seokhun Park et.al.|[2509.03317](https://arxiv.org/abs/2509.03317)|null|
+|**2025-09-04**|**Bayesian Additive Regression Trees for functional ANOVA model**|Seokhun Park et.al.|[2509.03317](https://arxiv.org/abs/2509.03317)|**[link](https://github.com/srinidevar/cs_research_papers)**|
 |**2025-09-03**|**Phasor notation of Dynamic Mode Decomposition**|Karl Lapo et.al.|[2509.03183](https://arxiv.org/abs/2509.03183)|null|
 |**2025-09-03**|**Eigendecompositions of temporal networks**|Lucas Lacasa et.al.|[2509.03135](https://arxiv.org/abs/2509.03135)|null|
 |**2025-09-03**|**Banks, Bonds, and Collateral: A Microfounded Comparison under Adverse Selection**|Georgy Lukyanov et.al.|[2509.03086](https://arxiv.org/abs/2509.03086)|null|
@@ -901,7 +901,7 @@ layout: default
 |**2025-09-02**|**Deep Research is the New Analytics System: Towards Building the Runtime for AI-Driven Analytics**|Matthew Russo et.al.|[2509.02751](https://arxiv.org/abs/2509.02751)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
 |**2025-09-02**|**LLM-Enhanced Space-Air-Ground-Sea Integrated Networks**|Halvin Yang et.al.|[2509.02540](https://arxiv.org/abs/2509.02540)|null|
 |**2025-09-02**|**GridMind: LLMs-Powered Agents for Power System Analysis and Operations**|Hongwei Jin et.al.|[2509.02494](https://arxiv.org/abs/2509.02494)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
-|**2025-09-02**|**KubeIntellect: A Modular LLM-Orchestrated Agent Framework for End-to-End Kubernetes Management**|Mohsen Seyedkazemi Ardebili et.al.|[2509.02449](https://arxiv.org/abs/2509.02449)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
+|**2025-09-02**|**KubeIntellect: A Modular LLM-Orchestrated Agent Framework for End-to-End Kubernetes Management**|Mohsen Seyedkazemi Ardebili et.al.|[2509.02449](https://arxiv.org/abs/2509.02449)|null|
 |**2025-09-02**|**AppCopilot: Toward General, Accurate, Long-Horizon, and Efficient Mobile Agent**|Jingru Fan et.al.|[2509.02444](https://arxiv.org/abs/2509.02444)|null|
 |**2025-09-02**|**Towards Agents That Know When They Don't Know: Uncertainty as a Control Signal for Structured Reasoning**|Josefa Lia Stoisser et.al.|[2509.02401](https://arxiv.org/abs/2509.02401)|null|
 |**2025-09-02**|**When Agents go Astray: Course-Correcting SWE Agents with PRMs**|Shubham Gandhi et.al.|[2509.02360](https://arxiv.org/abs/2509.02360)|null|
@@ -909,12 +909,12 @@ layout: default
 |**2025-09-02**|**Think2Sing: Orchestrating Structured Motion Subtitles for Singing-Driven 3D Head Animation**|Zikai Huang et.al.|[2509.02278](https://arxiv.org/abs/2509.02278)|null|
 |**2025-09-02**|**Enhancing Reliability in LLM-Integrated Robotic Systems: A Unified Approach to Security and Safety**|Wenxiao Zhang et.al.|[2509.02163](https://arxiv.org/abs/2509.02163)|**[link](https://github.com/shenyizg/NewAdversarialAttackPaper)**|
 |**2025-09-02**|**FlexNGIA 2.0: Redesigning the Internet with Agentic AI -- Protocols, Services, and Traffic Engineering Designed, Deployed, and Managed by AI**|Mohamed Faten Zhani et.al.|[2509.02124](https://arxiv.org/abs/2509.02124)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
-|**2025-09-02**|**Batch Query Processing and Optimization for Agentic Workflows**|Junyi Shen et.al.|[2509.02121](https://arxiv.org/abs/2509.02121)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
+|**2025-09-02**|**Batch Query Processing and Optimization for Agentic Workflows**|Junyi Shen et.al.|[2509.02121](https://arxiv.org/abs/2509.02121)|null|
 |**2025-09-02**|**HiGraph: A Large-Scale Hierarchical Graph Dataset for Malware Analysis**|Han Chen et.al.|[2509.02113](https://arxiv.org/abs/2509.02113)|null|
 |**2025-09-02**|**Hybrid Autonomy Framework for a Future Mars Science Helicopter**|Luca Di Pierno et.al.|[2509.01980](https://arxiv.org/abs/2509.01980)|null|
 |**2025-09-01**|**Agentic Workflow for Education: Concepts and Applications**|Yuan-Hao Jiang et.al.|[2509.01517](https://arxiv.org/abs/2509.01517)|null|
-|**2025-09-01**|**The Need for Verification in AI-Driven Scientific Discovery**|Cristina Cornelio et.al.|[2509.01398](https://arxiv.org/abs/2509.01398)|null|
-|**2025-09-01**|**DeepResearch Arena: The First Exam of LLMs' Research Abilities via Seminar-Grounded Tasks**|Haiyuan Wan et.al.|[2509.01396](https://arxiv.org/abs/2509.01396)|null|
+|**2025-09-01**|**The Need for Verification in AI-Driven Scientific Discovery**|Cristina Cornelio et.al.|[2509.01398](https://arxiv.org/abs/2509.01398)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
+|**2025-09-01**|**DeepResearch Arena: The First Exam of LLMs' Research Abilities via Seminar-Grounded Tasks**|Haiyuan Wan et.al.|[2509.01396](https://arxiv.org/abs/2509.01396)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
 |**2025-09-01**|**Positively not SOS: pseudo-moments and extreme rays in exact arithmetic**|Didier Henrion et.al.|[2509.01382](https://arxiv.org/abs/2509.01382)|null|
 |**2025-09-03**|**Novel Category Discovery with X-Agent Attention for Open-Vocabulary Semantic Segmentation**|Jiahao Li et.al.|[2509.01275](https://arxiv.org/abs/2509.01275)|**[link](https://github.com/liblacklucy/X-Agent)**|
 |**2025-09-03**|**Towards Agentic OS: An LLM Agent Framework for Linux Schedulers**|Yusheng Zheng et.al.|[2509.01245](https://arxiv.org/abs/2509.01245)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
@@ -923,7 +923,7 @@ layout: default
 |**2025-09-03**|**L-MARS: Legal Multi-Agent Workflow with Orchestrated Reasoning and Agentic Search**|Ziqi Wang et.al.|[2509.00761](https://arxiv.org/abs/2509.00761)|null|
 |**2025-08-30**|**Exploring Decision-Making Capabilities of LLM Agents: An Experimental Study on Jump-Jump Game**|Juwu Li et.al.|[2509.00483](https://arxiv.org/abs/2509.00483)|null|
 |**2025-08-30**|**Talk Less, Call Right: Enhancing Role-Play LLM Agents with Automatic Prompt Optimization and Role Prompting**|Saksorn Ruangtanusak et.al.|[2509.00482](https://arxiv.org/abs/2509.00482)|null|
-|**2025-08-29**|**HiVA: Self-organized Hierarchical Variable Agent via Goal-driven Semantic-Topological Evolution**|Jinzhou Tang et.al.|[2509.00189](https://arxiv.org/abs/2509.00189)|null|
+|**2025-08-29**|**HiVA: Self-organized Hierarchical Variable Agent via Goal-driven Semantic-Topological Evolution**|Jinzhou Tang et.al.|[2509.00189](https://arxiv.org/abs/2509.00189)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
 |**2025-08-27**|**Operating advanced scientific instruments with AI agents that learn on the job**|Aikaterini Vriza et.al.|[2509.00098](https://arxiv.org/abs/2509.00098)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
 |**2025-08-29**|**Automated Clinical Problem Detection from SOAP Notes using a Collaborative Multi-Agent LLM Architecture**|Yeawon Lee et.al.|[2508.21803](https://arxiv.org/abs/2508.21803)|**[link](https://github.com/luo-junyu/Awesome-Agent-Papers)**|
 |**2025-08-29**|**Accelerating Mixture-of-Experts Inference by Hiding Offloading Latency with Speculative Decoding**|Zhibin Wang et.al.|[2508.21706](https://arxiv.org/abs/2508.21706)|**[link](https://github.com/hemingkx/SpeculativeDecodingPapers)**|
