@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robot & Agent
@@ -335,7 +335,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-12-09**|**InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models**|Hongyuan Tao et.al.|[2512.08829](https://arxiv.org/abs/2512.08829)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2025-12-09**|**Fluent Alignment with Disfluent Judges: Post-training for Lower-resource Languages**|David Samuel et.al.|[2512.08777](https://arxiv.org/abs/2512.08777)|**[link](https://huggingface.co/datasets/ltg/normistral-fluency-annotation)**|
+|**2025-12-09**|**Fluent Alignment with Disfluent Judges: Post-training for Lower-resource Languages**|David Samuel et.al.|[2512.08777](https://arxiv.org/abs/2512.08777)|**[link](https://huggingface.co/models/norallm/normistral-11b-thinking)**|
 |**2025-12-09**|**An Agentic AI System for Multi-Framework Communication Coding**|Bohao Yang et.al.|[2512.08659](https://arxiv.org/abs/2512.08659)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-12-09**|**Chat with UAV -- Human-UAV Interaction Based on Large Language Models**|Haoran Wang et.al.|[2512.08145](https://arxiv.org/abs/2512.08145)|**[link](https://github.com/RainbowNebula/robot-paper-daily)**|
 |**2025-12-08**|**In-Context and Few-Shots Learning for Forecasting Time Series Data based on Large Language Models**|Saroj Gopali et.al.|[2512.07705](https://arxiv.org/abs/2512.07705)|**[link](https://github.com/zezhishao/DailyArXiv)**|
@@ -343,18 +343,18 @@ layout: default
 |**2025-12-08**|**Persian-Phi: Efficient Cross-Lingual Adaptation of Compact LLMs via Curriculum Learning**|Amir Mohammad Akhlaghi et.al.|[2512.07454](https://arxiv.org/abs/2512.07454)|**[link](https://github.com/zachysun/DailyArXiv)**|
 |**2025-12-08**|**Investigating Training and Generalization in Faithful Self-Explanations of Large Language Models**|Tomoki Doi et.al.|[2512.07288](https://arxiv.org/abs/2512.07288)|null|
 |**2025-12-08**|**RVLF: A Reinforcing Vision-Language Framework for Gloss-Free Sign Language Translation**|Zhi Rao et.al.|[2512.07273](https://arxiv.org/abs/2512.07273)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
-|**2025-12-07**|**JT-DA: Enhancing Data Analysis with Tool-Integrated Table Reasoning Large Language Models**|Ce Chi et.al.|[2512.06859](https://arxiv.org/abs/2512.06859)|null|
-|**2025-12-07**|**GradientSpace: Unsupervised Data Clustering for Improved Instruction Tuning**|Shrihari Sridharan et.al.|[2512.06678](https://arxiv.org/abs/2512.06678)|null|
+|**2025-12-07**|**JT-DA: Enhancing Data Analysis with Tool-Integrated Table Reasoning Large Language Models**|Ce Chi et.al.|[2512.06859](https://arxiv.org/abs/2512.06859)|**[link](https://github.com/zbr17/Arxiv-Daily)**|
+|**2025-12-07**|**GradientSpace: Unsupervised Data Clustering for Improved Instruction Tuning**|Shrihari Sridharan et.al.|[2512.06678](https://arxiv.org/abs/2512.06678)|**[link](https://github.com/zbr17/Arxiv-Daily)**|
 |**2025-12-07**|**Teaching large language models to see in radar: aspect-distributed prototypes for few-shot HRRP ATR**|De Bi et.al.|[2512.06617](https://arxiv.org/abs/2512.06617)|null|
-|**2025-12-06**|**Small Language Models Can Use Nuanced Reasoning For Health Science Research Classification: A Microbial-Oncogenesis Case Study**|Muhammed Muaaz Dawood et.al.|[2512.06502](https://arxiv.org/abs/2512.06502)|null|
+|**2025-12-06**|**Small Language Models Can Use Nuanced Reasoning For Health Science Research Classification: A Microbial-Oncogenesis Case Study**|Muhammed Muaaz Dawood et.al.|[2512.06502](https://arxiv.org/abs/2512.06502)|**[link](https://github.com/NickDee96/ASR-TTS-paper-daily)**|
 |**2025-12-06**|**Classifying German Language Proficiency Levels Using Large Language Models**|Elias-Leander Ahlers et.al.|[2512.06483](https://arxiv.org/abs/2512.06483)|null|
 |**2025-12-05**|**Enhancing Retrieval-Augmented Generation with Entity Linking for Educational Platforms**|Francesco Granata et.al.|[2512.05967](https://arxiv.org/abs/2512.05967)|**[link](https://github.com/asingh228/TheDailyUpdate)**|
-|**2025-12-05**|**SymPyBench: A Dynamic Benchmark for Scientific Reasoning with Executable Python Code**|Shima Imani et.al.|[2512.05954](https://arxiv.org/abs/2512.05954)|**[link](https://github.com/polyidoit/Arxiv-Quantum)**|
+|**2025-12-05**|**SymPyBench: A Dynamic Benchmark for Scientific Reasoning with Executable Python Code**|Shima Imani et.al.|[2512.05954](https://arxiv.org/abs/2512.05954)|null|
 |**2025-12-05**|**Adsorption energies are necessary but not sufficient to identify good catalysts**|Shahana Chatterjee et.al.|[2512.05938](https://arxiv.org/abs/2512.05938)|**[link](https://github.com/chemicallyGeeky/OCdataset_analysis_for_HER_OER)**|
-|**2025-12-05**|**Speech World Model: Causal State-Action Planning with Explicit Reasoning for Speech**|Xuanru Zhou et.al.|[2512.05933](https://arxiv.org/abs/2512.05933)|**[link](https://github.com/LMD0311/Awesome-World-Model)**|
+|**2025-12-05**|**Speech World Model: Causal State-Action Planning with Explicit Reasoning for Speech**|Xuanru Zhou et.al.|[2512.05933](https://arxiv.org/abs/2512.05933)|null|
 |**2025-12-05**|**Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures**|Amirkia Rafiei Oskooei et.al.|[2512.05908](https://arxiv.org/abs/2512.05908)|null|
 |**2025-12-05**|**From Text to Returns: Using Large Language Models for Mutual Fund Portfolio Optimization and Risk-Adjusted Allocation**|Abrar Hossain Mufakir Qamar Ansari Haziq Jeelani Monia Digra Fayeq Jeelani Syed et.al.|[2512.05907](https://arxiv.org/abs/2512.05907)|**[link](https://github.com/yanghlll/ArxivDaily-Haolin)**|
-|**2025-12-05**|**SCAIL: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Consistent Pose Representations**|Wenhao Yan et.al.|[2512.05905](https://arxiv.org/abs/2512.05905)|**[link](https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation)**|
+|**2025-12-05**|**SCAIL: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Consistent Pose Representations**|Wenhao Yan et.al.|[2512.05905](https://arxiv.org/abs/2512.05905)|**[link](https://github.com/teal024/SCAIL-Official)**|
 |**2025-12-05**|**Euclid Quick Data Release (Q1). From simulations to sky: Advancing machine-learning lens detection with real Euclid data**|Euclid Collaboration et.al.|[2512.05899](https://arxiv.org/abs/2512.05899)|**[link](https://github.com/hhhh1138/my_arxiv_daily)**|
 |**2025-12-05**|**InstructMPC: A Human-LLM-in-the-Loop Framework for Context-Aware Power Grid Control**|Ruixiang Wu et.al.|[2512.05876](https://arxiv.org/abs/2512.05876)|null|
 |**2025-12-05**|**Prompting Science Report 4: Playing Pretend: Expert Personas Don't Improve Factual Accuracy**|Savir Basil et.al.|[2512.05858](https://arxiv.org/abs/2512.05858)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
@@ -362,12 +362,12 @@ layout: default
 |**2025-12-05**|**Toward Efficient and Robust Behavior Models for Multi-Agent Driving Simulation**|Fabian Konstantinidis et.al.|[2512.05812](https://arxiv.org/abs/2512.05812)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
 |**2025-12-05**|**Bring Your Dreams to Life: Continual Text-to-Video Customization**|Jiahua Dong et.al.|[2512.05802](https://arxiv.org/abs/2512.05802)|**[link](https://github.com/wangkai930418/awesome-diffusion-categorized)**|
 |**2025-12-05**|**Label-Efficient Point Cloud Segmentation with Active Learning**|Johannes Meyer et.al.|[2512.05759](https://arxiv.org/abs/2512.05759)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2025-12-05**|**Efficient Text Classification with Conformal In-Context Learning**|Ippokratis Pantelidis et.al.|[2512.05732](https://arxiv.org/abs/2512.05732)|null|
+|**2025-12-05**|**Efficient Text Classification with Conformal In-Context Learning**|Ippokratis Pantelidis et.al.|[2512.05732](https://arxiv.org/abs/2512.05732)|**[link](https://github.com/isLinXu/paper-list)**|
 |**2025-12-05**|**Model selection with uncertainty in estimating optimal dynamic treatment regimes**|Chunyu Wang et.al.|[2512.05695](https://arxiv.org/abs/2512.05695)|null|
 |**2025-12-05**|**Scenario-aware Uncertainty Quantification for Trajectory Prediction with Statistical Guarantees**|Yiming Shu et.al.|[2512.05682](https://arxiv.org/abs/2512.05682)|null|
-|**2025-12-05**|**MedTutor-R1: Socratic Personalized Medical Teaching with Multi-Agent Simulation**|Zhitao He et.al.|[2512.05671](https://arxiv.org/abs/2512.05671)|null|
+|**2025-12-05**|**MedTutor-R1: Socratic Personalized Medical Teaching with Multi-Agent Simulation**|Zhitao He et.al.|[2512.05671](https://arxiv.org/abs/2512.05671)|**[link](https://github.com/Zhitao-He/MedTutor-R1)**|
 |**2025-12-05**|**Interleaved Latent Visual Reasoning with Selective Perceptual Modeling**|Shuai Dong et.al.|[2512.05665](https://arxiv.org/abs/2512.05665)|null|
-|**2025-12-05**|**Grounded Multilingual Medical Reasoning for Question Answering with Large Language Models**|Pietro Ferrazzi et.al.|[2512.05658](https://arxiv.org/abs/2512.05658)|null|
+|**2025-12-05**|**Grounded Multilingual Medical Reasoning for Question Answering with Large Language Models**|Pietro Ferrazzi et.al.|[2512.05658](https://arxiv.org/abs/2512.05658)|**[link](https://github.com/NickDee96/ASR-TTS-paper-daily)**|
 |**2025-12-05**|**Ontology Learning with LLMs: A Benchmark Study on Axiom Identification**|Roos M. Bakker et.al.|[2512.05594](https://arxiv.org/abs/2512.05594)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-12-05**|**CureAgent: A Training-Free Executor-Analyst Framework for Clinical Reasoning**|Ting-Ting Xie et.al.|[2512.05576](https://arxiv.org/abs/2512.05576)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-12-05**|**Conscious Gaze: Adaptive Attention Mechanisms for Hallucination Mitigation in Vision-Language Models**|Weijue Bu et.al.|[2512.05546](https://arxiv.org/abs/2512.05546)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
@@ -518,7 +518,7 @@ layout: default
 |**2025-12-01**|**Automated Risk-of-Bias Assessment of Randomized Controlled Trials: A First Look at a GEPA-trained Programmatic Prompting Framework**|Lingbo Li et.al.|[2512.01452](https://arxiv.org/abs/2512.01452)|null|
 |**2025-12-01**|**A Flexible Multi-Agent LLM-Human Framework for Fast Human Validated Tool Building**|Daull Xavier et.al.|[2512.01434](https://arxiv.org/abs/2512.01434)|null|
 |**2025-12-01**|**Masked Symbol Modeling for Demodulation of Oversampled Baseband Communication Signals in Impulsive Noise-Dominated Channels**|Oguz Bedir et.al.|[2512.01428](https://arxiv.org/abs/2512.01428)|**[link](https://github.com/ZhuYingJessica/cv-daily)**|
-|**2025-12-01**|**PromptBridge: Cross-Model Prompt Transfer for Large Language Models**|Yaxuan Wang et.al.|[2512.01420](https://arxiv.org/abs/2512.01420)|**[link](https://github.com/supergirl-os/PromptBridge)**|
+|**2025-12-01**|**PromptBridge: Cross-Model Prompt Transfer for Large Language Models**|Yaxuan Wang et.al.|[2512.01420](https://arxiv.org/abs/2512.01420)|null|
 |**2025-12-01**|**SocialDriveGen: Generating Diverse Traffic Scenarios with Controllable Social Interactions**|Jiaguo Tian et.al.|[2512.01363](https://arxiv.org/abs/2512.01363)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2025-12-01**|**LAURA: Enhancing Code Review Generation with Context-Enriched Retrieval-Augmented LLM**|Yuxin Zhang et.al.|[2512.01356](https://arxiv.org/abs/2512.01356)|**[link](https://github.com/zachysun/DailyArXiv)**|
 |**2025-12-01**|**The Necessity of Imperfection:Reversing Model Collapse via Simulating Cognitive Boundedness**|Zhongjie Jiang et.al.|[2512.01354](https://arxiv.org/abs/2512.01354)|**[link](https://github.com/Gang-Zong-Gae/Adversarial-Text-Protocols)**|
@@ -1526,49 +1526,49 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-09**|**Improved Pseudorandom Codes from Permuted Puzzles**|Miranda Christ et.al.|[2512.08918](https://arxiv.org/abs/2512.08918)|null|
+|**2025-12-09**|**Improved Pseudorandom Codes from Permuted Puzzles**|Miranda Christ et.al.|[2512.08918](https://arxiv.org/abs/2512.08918)|**[link](https://github.com/DerekDLP/arxivpaper-daily)**|
 |**2025-12-09**|**Toward Faithful Retrieval-Augmented Generation with Sparse Autoencoders**|Guangzhi Xiong et.al.|[2512.08892](https://arxiv.org/abs/2512.08892)|null|
-|**2025-12-09**|**EcomBench: Towards Holistic Evaluation of Foundation Agents in E-commerce**|Rui Min et.al.|[2512.08868](https://arxiv.org/abs/2512.08868)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
+|**2025-12-09**|**EcomBench: Towards Holistic Evaluation of Foundation Agents in E-commerce**|Rui Min et.al.|[2512.08868](https://arxiv.org/abs/2512.08868)|null|
 |**2025-12-09**|**SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA**|Jing Zhang et.al.|[2512.08867](https://arxiv.org/abs/2512.08867)|null|
-|**2025-12-09**|**VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation**|Jinfeng Xu et.al.|[2512.08702](https://arxiv.org/abs/2512.08702)|**[link](https://github.com/yanghlll/ArxivDaily-Haolin)**|
+|**2025-12-09**|**VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation**|Jinfeng Xu et.al.|[2512.08702](https://arxiv.org/abs/2512.08702)|null|
 |**2025-12-09**|**An Agentic AI System for Multi-Framework Communication Coding**|Bohao Yang et.al.|[2512.08659](https://arxiv.org/abs/2512.08659)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-12-09**|**HealthcareNLP: where are we and what is next?**|Lifeng Han et.al.|[2512.08617](https://arxiv.org/abs/2512.08617)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2025-12-09**|**Ontology-Based Knowledge Graph Framework for Industrial Standard Documents via Hierarchical and Propositional Structuring**|Jiin Park et.al.|[2512.08398](https://arxiv.org/abs/2512.08398)|null|
+|**2025-12-09**|**Ontology-Based Knowledge Graph Framework for Industrial Standard Documents via Hierarchical and Propositional Structuring**|Jiin Park et.al.|[2512.08398](https://arxiv.org/abs/2512.08398)|**[link](https://github.com/srinidevar/cs_research_papers)**|
 |**2025-12-09**|**MIRAGE: Misleading Retrieval-Augmented Generation via Black-box and Query-agnostic Poisoning Attacks**|Tailun Chen et.al.|[2512.08289](https://arxiv.org/abs/2512.08289)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
-|**2025-12-09**|**ClinicalTrialsHub: Bridging Registries and Literature for Comprehensive Clinical Trial Access**|Jiwoo Park et.al.|[2512.08193](https://arxiv.org/abs/2512.08193)|null|
-|**2025-12-08**|**Adaptation of Embedding Models to Financial Filings via LLM Distillation**|Eliot Brenner et.al.|[2512.08088](https://arxiv.org/abs/2512.08088)|null|
-|**2025-12-08**|**Exploiting the Randomness of Large Language Models (LLM) in Text Classification Tasks: Locating Privileged Documents in Legal Matters**|Keith Huffman et.al.|[2512.08083](https://arxiv.org/abs/2512.08083)|null|
+|**2025-12-09**|**ClinicalTrialsHub: Bridging Registries and Literature for Comprehensive Clinical Trial Access**|Jiwoo Park et.al.|[2512.08193](https://arxiv.org/abs/2512.08193)|**[link](https://github.com/srinidevar/cs_research_papers)**|
+|**2025-12-08**|**Adaptation of Embedding Models to Financial Filings via LLM Distillation**|Eliot Brenner et.al.|[2512.08088](https://arxiv.org/abs/2512.08088)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
+|**2025-12-08**|**Exploiting the Randomness of Large Language Models (LLM) in Text Classification Tasks: Locating Privileged Documents in Legal Matters**|Keith Huffman et.al.|[2512.08083](https://arxiv.org/abs/2512.08083)|**[link](https://github.com/zachysun/DailyArXiv)**|
 |**2025-12-08**|**Leveraging Machine Learning and Large Language Models for Automated Image Clustering and Description in Legal Discovery**|Qiang Mao et.al.|[2512.08079](https://arxiv.org/abs/2512.08079)|null|
 |**2025-12-08**|**A Comparative Study of Retrieval Methods in Azure AI Search**|Qiang Mao et.al.|[2512.08078](https://arxiv.org/abs/2512.08078)|null|
 |**2025-12-08**|**Detecting Privileged Documents by Ranking Connected Network Entities**|Jianping Zhang et.al.|[2512.08073](https://arxiv.org/abs/2512.08073)|null|
-|**2025-12-08**|**DeepCode: Open Agentic Coding**|Zongwei Li et.al.|[2512.07921](https://arxiv.org/abs/2512.07921)|null|
+|**2025-12-08**|**DeepCode: Open Agentic Coding**|Zongwei Li et.al.|[2512.07921](https://arxiv.org/abs/2512.07921)|**[link](https://github.com/HKUDS/DeepCode)**|
 |**2025-12-08**|**HLTCOE Evaluation Team at TREC 2025: VQA Track**|Dengjia Zhang et.al.|[2512.07738](https://arxiv.org/abs/2512.07738)|null|
-|**2025-12-08**|**Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation**|Fuyuan Lyu et.al.|[2512.07650](https://arxiv.org/abs/2512.07650)|null|
+|**2025-12-08**|**Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation**|Fuyuan Lyu et.al.|[2512.07650](https://arxiv.org/abs/2512.07650)|**[link](https://github.com/tangwen-qian/DailyArXiv)**|
 |**2025-12-08**|**SPAD: Seven-Source Token Probability Attribution with Syntactic Aggregation for Detecting Hallucinations in RAG**|Pengqian Lu et.al.|[2512.07515](https://arxiv.org/abs/2512.07515)|**[link](https://github.com/jyyang621/DailyArXiv)**|
 |**2025-12-08**|**Exploring possible vector systems for faster training of neural networks with preconfigured latent spaces**|Nikita Gabdullin et.al.|[2512.07509](https://arxiv.org/abs/2512.07509)|**[link](https://github.com/JiamingZang/DailyArxiv)**|
 |**2025-12-08**|**Parallel Algorithms for Combined Regularized Support Vector Machines: Application in Music Genre Classification**|Rongmei Liang et.al.|[2512.07463](https://arxiv.org/abs/2512.07463)|**[link](https://github.com/MayDomine/arxiv_rss_bot)**|
 |**2025-12-08**|**From Show Programmes to Data: Designing a Workflow to Make Performing Arts Ephemera Accessible Through Language Models**|Clarisse Bardiot et.al.|[2512.07452](https://arxiv.org/abs/2512.07452)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
 |**2025-12-08**|**LocalSearchBench: Benchmarking Agentic Search in Real-World Local Life Services**|Hang He et.al.|[2512.07436](https://arxiv.org/abs/2512.07436)|**[link](https://huggingface.co/datasets/localsearchbench/localsearchbench)**|
-|**2025-12-08**|**OnePiece: The Great Route to Generative Recommendation -- A Case Study from Tencent Algorithm Competition**|Jiangxia Cao et.al.|[2512.07424](https://arxiv.org/abs/2512.07424)|**[link](https://github.com/srinidevar/cs_research_papers)**|
-|**2025-12-08**|**On the Impact of Graph Neural Networks in Recommender Systems: A Topological Perspective**|Daniele Malitesta et.al.|[2512.07384](https://arxiv.org/abs/2512.07384)|**[link](https://github.com/zezhishao/DailyArXiv)**|
+|**2025-12-08**|**OnePiece: The Great Route to Generative Recommendation -- A Case Study from Tencent Algorithm Competition**|Jiangxia Cao et.al.|[2512.07424](https://arxiv.org/abs/2512.07424)|null|
+|**2025-12-08**|**On the Impact of Graph Neural Networks in Recommender Systems: A Topological Perspective**|Daniele Malitesta et.al.|[2512.07384](https://arxiv.org/abs/2512.07384)|null|
 |**2025-12-08**|**MUSE: A Simple Yet Effective Multimodal Search-Based Framework for Lifelong User Interest Modeling**|Bin Wu et.al.|[2512.07216](https://arxiv.org/abs/2512.07216)|**[link](https://huggingface.co/datasets/TaoBao-MM/Taobao-MM)**|
-|**2025-12-08**|**PIR-DSN: A Decentralized Storage Network Supporting Private Information Retrieval**|Jiahao Zhang et.al.|[2512.07189](https://arxiv.org/abs/2512.07189)|**[link](https://github.com/srinidevar/cs_research_papers)**|
-|**2025-12-07**|**Reformulate, Retrieve, Localize: Agents for Repository-Level Bug Localization**|Genevieve Caumartin et.al.|[2512.07022](https://arxiv.org/abs/2512.07022)|**[link](https://github.com/jyyang621/DailyArXiv)**|
-|**2025-12-07**|**FVA-RAG: Falsification-Verification Alignment for Mitigating Sycophantic Hallucinations**|Mayank Ravishankara et.al.|[2512.07015](https://arxiv.org/abs/2512.07015)|**[link](https://github.com/jyyang621/DailyArXiv)**|
+|**2025-12-08**|**PIR-DSN: A Decentralized Storage Network Supporting Private Information Retrieval**|Jiahao Zhang et.al.|[2512.07189](https://arxiv.org/abs/2512.07189)|null|
+|**2025-12-07**|**Reformulate, Retrieve, Localize: Agents for Repository-Level Bug Localization**|Genevieve Caumartin et.al.|[2512.07022](https://arxiv.org/abs/2512.07022)|null|
+|**2025-12-07**|**FVA-RAG: Falsification-Verification Alignment for Mitigating Sycophantic Hallucinations**|Mayank Ravishankara et.al.|[2512.07015](https://arxiv.org/abs/2512.07015)|null|
 |**2025-12-07**|**Benchmarking Deep Neural Networks for Modern Recommendation Systems**|Abderaouf Bahi et.al.|[2512.07000](https://arxiv.org/abs/2512.07000)|null|
 |**2025-12-07**|**Space efficient implementation of hypergraph dualization in the D-basis algorithm**|Skylar Homan et.al.|[2512.06988](https://arxiv.org/abs/2512.06988)|null|
-|**2025-12-07**|**Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation**|Zhongtao Rao et.al.|[2512.06883](https://arxiv.org/abs/2512.06883)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
-|**2025-12-07**|**WisPaper: Your AI Scholar Search Engine**|Li Ju et.al.|[2512.06879](https://arxiv.org/abs/2512.06879)|**[link](https://github.com/Dandelight/ScholarFeed)**|
+|**2025-12-07**|**Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation**|Zhongtao Rao et.al.|[2512.06883](https://arxiv.org/abs/2512.06883)|**[link](https://github.com/zachysun/DailyArXiv)**|
+|**2025-12-07**|**WisPaper: Your AI Scholar Search Engine**|Li Ju et.al.|[2512.06879](https://arxiv.org/abs/2512.06879)|null|
 |**2025-12-07**|**LLM4SFC: Sequential Function Chart Generation via Large Language Models**|Ofek Glick et.al.|[2512.06787](https://arxiv.org/abs/2512.06787)|null|
 |**2025-12-07**|**Foresight Prediction Enhanced Live-Streaming Recommendation**|Jiangxia Cao et.al.|[2512.06700](https://arxiv.org/abs/2512.06700)|null|
 |**2025-12-07**|**An Index-based Approach for Efficient and Effective Web Content Extraction**|Yihan Chen et.al.|[2512.06641](https://arxiv.org/abs/2512.06641)|null|
-|**2025-12-06**|**Towards Efficient Hypergraph and Multi-LLM Agent Recommender Systems**|Tendai Mukande et.al.|[2512.06590](https://arxiv.org/abs/2512.06590)|**[link](https://github.com/jyyang621/DailyArXiv)**|
+|**2025-12-06**|**Towards Efficient Hypergraph and Multi-LLM Agent Recommender Systems**|Tendai Mukande et.al.|[2512.06590](https://arxiv.org/abs/2512.06590)|null|
 |**2025-12-06**|**Modeling Contextual Passage Utility for Multihop Question Answering**|Akriti Jain et.al.|[2512.06464](https://arxiv.org/abs/2512.06464)|null|
 |**2025-12-06**|**Enhancing Medical Cross-Modal Hashing Retrieval using Dropout-Voting Mixture-of-Experts Fusion**|Jaewon Ahn et.al.|[2512.06449](https://arxiv.org/abs/2512.06449)|null|
 |**2025-12-06**|**Enhancing Information Retrieval in Digital Libraries through Unit Harmonisation in Scholarly Knowledge Graphs**|Golsa Heidari et.al.|[2512.06395](https://arxiv.org/abs/2512.06395)|null|
 |**2025-12-06**|**Beyond Existing Retrievals: Cross-Scenario Incremental Sample Learning Framework**|Tao Wang et.al.|[2512.06381](https://arxiv.org/abs/2512.06381)|null|
 |**2025-12-06**|**Interpretive Efficiency: Information-Geometric Foundations of Data Usefulness**|Ronald Katende et.al.|[2512.06341](https://arxiv.org/abs/2512.06341)|null|
-|**2025-12-06**|**Enhanced Multimodal Video Retrieval System: Integrating Query Expansion and Cross-modal Temporal Event Retrieval**|Van-Thinh Vo et.al.|[2512.06334](https://arxiv.org/abs/2512.06334)|null|
+|**2025-12-06**|**Enhanced Multimodal Video Retrieval System: Integrating Query Expansion and Cross-modal Temporal Event Retrieval**|Van-Thinh Vo et.al.|[2512.06334](https://arxiv.org/abs/2512.06334)|**[link](https://github.com/tangwen-qian/DailyArXiv)**|
 |**2025-12-06**|**AI Application in Anti-Money Laundering for Sustainable and Transparent Financial Systems**|Chuanhao Nie et.al.|[2512.06240](https://arxiv.org/abs/2512.06240)|null|
 |**2025-12-05**|**How Should We Evaluate Data Deletion in Graph-Based ANN Indexes?**|Tomohiro Yamashita et.al.|[2512.06200](https://arxiv.org/abs/2512.06200)|null|
 |**2025-12-05**|**Sift or Get Off the PoC: Applying Information Retrieval to Vulnerability Research with SiftRank**|Caleb Gross et.al.|[2512.06155](https://arxiv.org/abs/2512.06155)|null|
@@ -3220,31 +3220,31 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-12-09**|**The QCD phase diagram**|Szabolcs Borsanyi et.al.|[2512.08843](https://arxiv.org/abs/2512.08843)|**[link](https://github.com/AxelKrypton/PhD_Thesis)**|
 |**2025-12-09**|**Ask, Answer, and Detect: Role-Playing LLMs for Personality Detection with Question-Conditioned Mixture-of-Experts**|Yifan Lyu et.al.|[2512.08814](https://arxiv.org/abs/2512.08814)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2025-12-09**|**Financial News Summarization: Can extractive methods still offer a true alternative to LLMs?**|Nicolas Reche et.al.|[2512.08764](https://arxiv.org/abs/2512.08764)|null|
-|**2025-12-09**|**Applications of Singular Entropy to Signals and Singular Smoothness to Images**|Oscar Romero et.al.|[2512.08717](https://arxiv.org/abs/2512.08717)|null|
-|**2025-12-09**|**Multi-domain performance analysis with scores tailored to user preferences**|Sébastien Piérard et.al.|[2512.08715](https://arxiv.org/abs/2512.08715)|null|
-|**2025-12-09**|**Atomic and molecular systems for radiation thermometry**|Stephen P. Eckel et.al.|[2512.08668](https://arxiv.org/abs/2512.08668)|null|
-|**2025-12-09**|**HybridToken-VLM: Hybrid Token Compression for Vision-Language Models**|Jusheng Zhang et.al.|[2512.08240](https://arxiv.org/abs/2512.08240)|null|
-|**2025-12-09**|**Information-Dense Reasoning for Efficient and Auditable Security Alert Triage**|Guangze Zhao et.al.|[2512.08169](https://arxiv.org/abs/2512.08169)|null|
+|**2025-12-09**|**Financial News Summarization: Can extractive methods still offer a true alternative to LLMs?**|Nicolas Reche et.al.|[2512.08764](https://arxiv.org/abs/2512.08764)|**[link](https://github.com/zachysun/DailyArXiv)**|
+|**2025-12-09**|**Applications of Singular Entropy to Signals and Singular Smoothness to Images**|Oscar Romero et.al.|[2512.08717](https://arxiv.org/abs/2512.08717)|**[link](https://github.com/lowrank/lowrank)**|
+|**2025-12-09**|**Multi-domain performance analysis with scores tailored to user preferences**|Sébastien Piérard et.al.|[2512.08715](https://arxiv.org/abs/2512.08715)|**[link](https://github.com/Hdksg10/DailyArxiv)**|
+|**2025-12-09**|**Atomic and molecular systems for radiation thermometry**|Stephen P. Eckel et.al.|[2512.08668](https://arxiv.org/abs/2512.08668)|**[link](https://github.com/CYandYue/Auto-Get-Papers-pro)**|
+|**2025-12-09**|**HybridToken-VLM: Hybrid Token Compression for Vision-Language Models**|Jusheng Zhang et.al.|[2512.08240](https://arxiv.org/abs/2512.08240)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
+|**2025-12-09**|**Information-Dense Reasoning for Efficient and Auditable Security Alert Triage**|Guangze Zhao et.al.|[2512.08169](https://arxiv.org/abs/2512.08169)|**[link](https://github.com/srinidevar/cs_research_papers)**|
 |**2025-12-08**|**Overview of the Helios Design: A Practical Planar Coil Stellarator Fusion Power Plant**|C. P. S. Swanson et.al.|[2512.08027](https://arxiv.org/abs/2512.08027)|null|
-|**2025-12-08**|**Large Causal Models from Large Language Models**|Sridhar Mahadevan et.al.|[2512.07796](https://arxiv.org/abs/2512.07796)|**[link](https://github.com/xydong-web/DailyArXiv)**|
+|**2025-12-08**|**Large Causal Models from Large Language Models**|Sridhar Mahadevan et.al.|[2512.07796](https://arxiv.org/abs/2512.07796)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
 |**2025-12-08**|**Universal bounds on entropy production from fluctuating coarse-grained trajectories**|Udo Seifert et.al.|[2512.07772](https://arxiv.org/abs/2512.07772)|null|
 |**2025-12-08**|**Log-concave functions and transformations thereof**|Dihan Zou et.al.|[2512.07768](https://arxiv.org/abs/2512.07768)|null|
 |**2025-12-08**|**Bridging Code Graphs and Large Language Models for Better Code Understanding**|Zeqi Chen et.al.|[2512.07666](https://arxiv.org/abs/2512.07666)|null|
-|**2025-12-08**|**Algorithm-hardware co-design of neuromorphic networks with dual memory pathways**|Pengfei Sun et.al.|[2512.07602](https://arxiv.org/abs/2512.07602)|**[link](https://github.com/randomrisk/NeuroAI-Daily-Arxiv)**|
-|**2025-12-08**|**RRAEDy: Adaptive Latent Linearization of Nonlinear Dynamical Systems**|Jad Mounayer et.al.|[2512.07542](https://arxiv.org/abs/2512.07542)|**[link](https://github.com/zbr17/Arxiv-Daily)**|
+|**2025-12-08**|**Algorithm-hardware co-design of neuromorphic networks with dual memory pathways**|Pengfei Sun et.al.|[2512.07602](https://arxiv.org/abs/2512.07602)|null|
+|**2025-12-08**|**RRAEDy: Adaptive Latent Linearization of Nonlinear Dynamical Systems**|Jad Mounayer et.al.|[2512.07542](https://arxiv.org/abs/2512.07542)|null|
 |**2025-12-08**|**Meta-analyses of dietary exposures must consider energy adjustment: recommendations from a meta-scientific review**|Natalia Ortega et.al.|[2512.07531](https://arxiv.org/abs/2512.07531)|null|
 |**2025-12-08**|**SUCCESS-GS: Survey of Compactness and Compression for Efficient Static and Dynamic Gaussian Splatting**|Seokhyun Youn et.al.|[2512.07197](https://arxiv.org/abs/2512.07197)|**[link](https://github.com/longxiang-ai/awesome-gaussians)**|
 |**2025-12-08**|**Chiral, parity-doublet, effective-Lagrangian mean-field theories for nuclear and astrophysical phenomenology**|Ayon Mukherjee et.al.|[2512.07172](https://arxiv.org/abs/2512.07172)|null|
 |**2025-12-08**|**Superconducting Nanowire Single-Photon Detectors for Enhanced Biomedical Imaging**|Emi Cora Valmai Hughes et.al.|[2512.07138](https://arxiv.org/abs/2512.07138)|null|
 |**2025-12-08**|**Finite-Sample Failures and Condition-Number Diagnostics in Double Machine Learning**|Gabriel Saco et.al.|[2512.07083](https://arxiv.org/abs/2512.07083)|null|
-|**2025-12-07**|**Reformulate, Retrieve, Localize: Agents for Repository-Level Bug Localization**|Genevieve Caumartin et.al.|[2512.07022](https://arxiv.org/abs/2512.07022)|**[link](https://github.com/jyyang621/DailyArXiv)**|
-|**2025-12-07**|**Prompting-in-a-Series: Psychology-Informed Contents and Embeddings for Personality Recognition With Decoder-Only Models**|Jing Jie Tan et.al.|[2512.06991](https://arxiv.org/abs/2512.06991)|**[link](https://github.com/Dandelight/ScholarFeed)**|
+|**2025-12-07**|**Reformulate, Retrieve, Localize: Agents for Repository-Level Bug Localization**|Genevieve Caumartin et.al.|[2512.07022](https://arxiv.org/abs/2512.07022)|null|
+|**2025-12-07**|**Prompting-in-a-Series: Psychology-Informed Contents and Embeddings for Personality Recognition With Decoder-Only Models**|Jing Jie Tan et.al.|[2512.06991](https://arxiv.org/abs/2512.06991)|null|
 |**2025-12-07**|**Progress Ratio Embeddings: An Impatience Signal for Robust Length Control in Neural Text Generation**|Ivanhoé Botcazou et.al.|[2512.06938](https://arxiv.org/abs/2512.06938)|null|
 |**2025-12-07**|**Near-Infrared Light Emitting Metal Halides: Materials, Mechanisms, and Applications**|Ying Liu et.al.|[2512.06780](https://arxiv.org/abs/2512.06780)|null|
-|**2025-12-07**|**KV-CAR: KV Cache Compression using Autoencoders and KV Reuse in Large Language Models**|Sourjya Roy et.al.|[2512.06727](https://arxiv.org/abs/2512.06727)|**[link](https://github.com/zbr17/Arxiv-Daily)**|
+|**2025-12-07**|**KV-CAR: KV Cache Compression using Autoencoders and KV Reuse in Large Language Models**|Sourjya Roy et.al.|[2512.06727](https://arxiv.org/abs/2512.06727)|**[link](https://github.com/zachysun/DailyArXiv)**|
 |**2025-12-07**|**PersonaMem-v2: Towards Personalized Intelligence via Learning Implicit User Personas and Agentic Memory**|Bowen Jiang et.al.|[2512.06688](https://arxiv.org/abs/2512.06688)|**[link](https://huggingface.co/datasets/bowen-upenn/PersonaMem-v2)**|
-|**2025-12-07**|**The Evolution of Agentic AI in Cybersecurity: From Single LLM Reasoners to Multi-Agent Systems and Autonomous Pipelines**|Vaishali Vinay et.al.|[2512.06659](https://arxiv.org/abs/2512.06659)|**[link](https://github.com/jyyang621/DailyArXiv)**|
+|**2025-12-07**|**The Evolution of Agentic AI in Cybersecurity: From Single LLM Reasoners to Multi-Agent Systems and Autonomous Pipelines**|Vaishali Vinay et.al.|[2512.06659](https://arxiv.org/abs/2512.06659)|null|
 |**2025-12-07**|**An Index-based Approach for Efficient and Effective Web Content Extraction**|Yihan Chen et.al.|[2512.06641](https://arxiv.org/abs/2512.06641)|null|
 |**2025-12-07**|**Freestanding Thin-Film Materials**|Li Liu et.al.|[2512.06637](https://arxiv.org/abs/2512.06637)|null|
 |**2025-12-06**|**Sanvaad: A Multimodal Accessibility Framework for ISL Recognition and Voice-Based Interaction**|Kush Revankar et.al.|[2512.06485](https://arxiv.org/abs/2512.06485)|null|
@@ -3267,7 +3267,7 @@ layout: default
 |**2025-12-05**|**Everything is Context: Agentic File System Abstraction for Context Engineering**|Xiwei Xu et.al.|[2512.05470](https://arxiv.org/abs/2512.05470)|null|
 |**2025-12-05**|**Comparison of filament properties in real-size GBS simulations and experiments of TCV-X21**|Y. Wang et.al.|[2512.05434](https://arxiv.org/abs/2512.05434)|null|
 |**2025-12-05**|**RevoNAD: Reflective Evolutionary Exploration for Neural Architecture Design**|Gyusam Chang et.al.|[2512.05403](https://arxiv.org/abs/2512.05403)|null|
-|**2025-12-05**|**Learning from Self Critique and Refinement for Faithful LLM Summarization**|Ting-Yao Hu et.al.|[2512.05387](https://arxiv.org/abs/2512.05387)|null|
+|**2025-12-05**|**Learning from Self Critique and Refinement for Faithful LLM Summarization**|Ting-Yao Hu et.al.|[2512.05387](https://arxiv.org/abs/2512.05387)|**[link](https://github.com/shaijing/arxiv-paper)**|
 |**2025-12-05**|**Light baryon spectroscopy at BESIII**|Ronggang Ping et.al.|[2512.05382](https://arxiv.org/abs/2512.05382)|null|
 |**2025-12-05**|**ChipMind: Retrieval-Augmented Reasoning for Long-Context Circuit Design Specifications**|Changwen Xing et.al.|[2512.05371](https://arxiv.org/abs/2512.05371)|**[link](https://github.com/qhy991/Awesome-LLM-Circuit-Agent)**|
 |**2025-12-05**|**MCP-AI: Protocol-Driven Intelligence Framework for Autonomous Reasoning in Healthcare**|Zag ElSayed et.al.|[2512.05365](https://arxiv.org/abs/2512.05365)|**[link](https://github.com/Aaron617/agent-arXiv-daily)**|
@@ -4692,13 +4692,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-09**|**No Labels, No Problem: Training Visual Reasoners with Multimodal Verifiers**|Damiano Marsili et.al.|[2512.08889](https://arxiv.org/abs/2512.08889)|null|
+|**2025-12-09**|**No Labels, No Problem: Training Visual Reasoners with Multimodal Verifiers**|Damiano Marsili et.al.|[2512.08889](https://arxiv.org/abs/2512.08889)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-12-09**|**Character Formulas for Kirillov-Reshetikhin Modules via Folding of Supercharacters of $\mathfrak{gl}(M|N)$**|Zengo Tsuboi et.al.|[2512.08791](https://arxiv.org/abs/2512.08791)|null|
 |**2025-12-09**|**A Practical Guide for Designing, Developing, and Deploying Production-Grade Agentic AI Workflows**|Eranga Bandara et.al.|[2512.08769](https://arxiv.org/abs/2512.08769)|**[link](https://github.com/wonderNefelibata/Awesome-LRM-Safety)**|
 |**2025-12-09**|**IoT-based Cost-Effective Fruit Quality Monitoring System using Electronic Nose**|Anindya Bhattacharjee et.al.|[2512.08753](https://arxiv.org/abs/2512.08753)|**[link](https://github.com/wonderNefelibata/Awesome-LRM-Safety)**|
-|**2025-12-09**|**Applications of Singular Entropy to Signals and Singular Smoothness to Images**|Oscar Romero et.al.|[2512.08717](https://arxiv.org/abs/2512.08717)|null|
+|**2025-12-09**|**Applications of Singular Entropy to Signals and Singular Smoothness to Images**|Oscar Romero et.al.|[2512.08717](https://arxiv.org/abs/2512.08717)|**[link](https://github.com/lowrank/lowrank)**|
 |**2025-12-09**|**A Unified Framework for Optimizing Uniformly Controlled Structures in Quantum Circuits**|Chengzhuo Xu et.al.|[2512.08675](https://arxiv.org/abs/2512.08675)|null|
-|**2025-12-09**|**Chain-of-Image Generation: Toward Monitorable and Controllable Image Generation**|Young Kyung Kim et.al.|[2512.08645](https://arxiv.org/abs/2512.08645)|**[link](https://github.com/wonderNefelibata/Awesome-LRM-Safety)**|
+|**2025-12-09**|**Chain-of-Image Generation: Toward Monitorable and Controllable Image Generation**|Young Kyung Kim et.al.|[2512.08645](https://arxiv.org/abs/2512.08645)|null|
 |**2025-12-09**|**New Constructions of SSPDs and their Applications**|Mohammad A. Abam et.al.|[2512.08619](https://arxiv.org/abs/2512.08619)|null|
 |**2025-12-09**|**Fast exact algorithms via the Matrix Tree Theorem**|V. Arvind et.al.|[2512.08600](https://arxiv.org/abs/2512.08600)|null|
 |**2025-12-09**|**Matrix-free algorithms for fast ab initio calculations on distributed CPU architectures using finite-element discretization**|Phani Motamarri et.al.|[2512.08571](https://arxiv.org/abs/2512.08571)|null|
@@ -4711,18 +4711,18 @@ layout: default
 |**2025-12-09**|**Global optimization of low-rank polynomials**|Llorenç Balada Gaggioli et.al.|[2512.08394](https://arxiv.org/abs/2512.08394)|null|
 |**2025-12-09**|**Hydrodynamic limit of the Vlasov-Poisson-Fokker-Planck system in low-field regime**|Zhendong Fang et.al.|[2512.08346](https://arxiv.org/abs/2512.08346)|null|
 |**2025-12-09**|**Triality and adjoint lifting for GL(3)**|Wee Teck Gan et.al.|[2512.08307](https://arxiv.org/abs/2512.08307)|null|
-|**2025-12-09**|**rSIM: Incentivizing Reasoning Capabilities of LLMs via Reinforced Strategy Injection**|Sijia Chen et.al.|[2512.08300](https://arxiv.org/abs/2512.08300)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
+|**2025-12-09**|**rSIM: Incentivizing Reasoning Capabilities of LLMs via Reinforced Strategy Injection**|Sijia Chen et.al.|[2512.08300](https://arxiv.org/abs/2512.08300)|null|
 |**2025-12-09**|**$0$ -affine quantum groups as K-theoretic Hall algebras**|You-Hung Hsu et.al.|[2512.08272](https://arxiv.org/abs/2512.08272)|null|
 |**2025-12-09**|**MM-CoT:A Benchmark for Probing Visual Chain-of-Thought Reasoning in Multimodal Models**|Jusheng Zhang et.al.|[2512.08228](https://arxiv.org/abs/2512.08228)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2025-12-09**|**Duct boundary conditions for incompressible fluid flows: finite element discretizations and parameter estimation in coronary blood flow**|Jeremías Garay et.al.|[2512.08207](https://arxiv.org/abs/2512.08207)|null|
-|**2025-12-09**|**Information-Dense Reasoning for Efficient and Auditable Security Alert Triage**|Guangze Zhao et.al.|[2512.08169](https://arxiv.org/abs/2512.08169)|null|
+|**2025-12-09**|**Duct boundary conditions for incompressible fluid flows: finite element discretizations and parameter estimation in coronary blood flow**|Jeremías Garay et.al.|[2512.08207](https://arxiv.org/abs/2512.08207)|**[link](https://github.com/lowrank/lowrank)**|
+|**2025-12-09**|**Information-Dense Reasoning for Efficient and Auditable Security Alert Triage**|Guangze Zhao et.al.|[2512.08169](https://arxiv.org/abs/2512.08169)|**[link](https://github.com/srinidevar/cs_research_papers)**|
 |**2025-12-09**|**Billey-Postnikov posets, rationally smooth Schubert varieties, and Poincaré duality**|Christian Gaetz et.al.|[2512.08168](https://arxiv.org/abs/2512.08168)|null|
-|**2025-12-08**|**Wavefunction-Based Emulation of Coupled-Channels Scattering with Non-Affinely Parametrized Interactions**|M. Catacora-Rios et.al.|[2512.08097](https://arxiv.org/abs/2512.08097)|**[link](https://github.com/superqx/arxiv_integrability)**|
+|**2025-12-08**|**Wavefunction-Based Emulation of Coupled-Channels Scattering with Non-Affinely Parametrized Interactions**|M. Catacora-Rios et.al.|[2512.08097](https://arxiv.org/abs/2512.08097)|null|
 |**2025-12-08**|**Bayesian Co-Navigation of a Computational Physical Model and AFM Experiment to Autonomously Survey a Combinatorial Materials Library**|Boris N. Slautin et.al.|[2512.08084](https://arxiv.org/abs/2512.08084)|null|
 |**2025-12-08**|**Leveraging Machine Learning and Large Language Models for Automated Image Clustering and Description in Legal Discovery**|Qiang Mao et.al.|[2512.08079](https://arxiv.org/abs/2512.08079)|null|
-|**2025-12-08**|**SkipKV: Selective Skipping of KV Generation and Storage for Efficient Inference with Large Reasoning Models**|Jiayi Tian et.al.|[2512.07993](https://arxiv.org/abs/2512.07993)|null|
+|**2025-12-08**|**SkipKV: Selective Skipping of KV Generation and Storage for Efficient Inference with Large Reasoning Models**|Jiayi Tian et.al.|[2512.07993](https://arxiv.org/abs/2512.07993)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2025-12-08**|**ReasonBENCH: Benchmarking the (In)Stability of LLM Reasoning**|Nearchos Potamitis et.al.|[2512.07795](https://arxiv.org/abs/2512.07795)|**[link](https://github.com/zachysun/DailyArXiv)**|
-|**2025-12-08**|**On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models**|Charlie Zhang et.al.|[2512.07783](https://arxiv.org/abs/2512.07783)|**[link](https://huggingface.co/models/Interplay-LM-Reasoning/extrapolation_midtrain)**|
+|**2025-12-08**|**On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models**|Charlie Zhang et.al.|[2512.07783](https://arxiv.org/abs/2512.07783)|**[link](https://huggingface.co/models/Interplay-LM-Reasoning/extrapolation_rl)**|
 |**2025-12-08**|**A Mathematical Theory of Top- $k$ Sparse Attention via Total Variation Distance**|Georgios Tzachristas et.al.|[2512.07647](https://arxiv.org/abs/2512.07647)|**[link](https://github.com/zbr17/Arxiv-Daily)**|
 |**2025-12-08**|**Optimization for growth condition of ultrathin hexagonal boron nitride on dielectric substrates via LPCVD**|Meryem Bozkaya et.al.|[2512.07640](https://arxiv.org/abs/2512.07640)|null|
 |**2025-12-08**|**Long- and short-time behavior of hypocoercive evolution equations with higher index via modal decompositions**|Marco Roschkowski et.al.|[2512.07617](https://arxiv.org/abs/2512.07617)|null|
@@ -4730,7 +4730,7 @@ layout: default
 |**2025-12-08**|**Complementary Learning Approach for Text Classification using Large Language Models**|Navid Asgari et.al.|[2512.07583](https://arxiv.org/abs/2512.07583)|**[link](https://github.com/isLinXu/paper-list)**|
 |**2025-12-08**|**Dual-Stream Cross-Modal Representation Learning via Residual Semantic Decorrelation**|Xuecheng Li et.al.|[2512.07568](https://arxiv.org/abs/2512.07568)|**[link](https://github.com/pstAmbition/DailyArXiv)**|
 |**2025-12-08**|**Toward More Reliable Artificial Intelligence: Reducing Hallucinations in Vision-Language Models**|Kassoum Sanogo et.al.|[2512.07564](https://arxiv.org/abs/2512.07564)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
-|**2025-12-08**|**RRAEDy: Adaptive Latent Linearization of Nonlinear Dynamical Systems**|Jad Mounayer et.al.|[2512.07542](https://arxiv.org/abs/2512.07542)|**[link](https://github.com/zbr17/Arxiv-Daily)**|
+|**2025-12-08**|**RRAEDy: Adaptive Latent Linearization of Nonlinear Dynamical Systems**|Jad Mounayer et.al.|[2512.07542](https://arxiv.org/abs/2512.07542)|null|
 |**2025-12-08**|**Compressible Euler equations with time-dependent damping in the critical regularity setting: global well-posedness and strong relaxation limit**|Timothée Crin-Barat et.al.|[2512.07516](https://arxiv.org/abs/2512.07516)|null|
 |**2025-12-08**|**Enumeration of Finite Distance Monoids**|Yunjie Luo et.al.|[2512.07499](https://arxiv.org/abs/2512.07499)|null|
 |**2025-12-08**|**Efficient Low-Tubal-Rank Tensor Estimation via Alternating Preconditioned Gradient Descent**|Zhiyu Liu et.al.|[2512.07490](https://arxiv.org/abs/2512.07490)|null|
@@ -4739,7 +4739,7 @@ layout: default
 |**2025-12-08**|**Absence of the analytic continuation of elastic transmission eigenfunctions at rectangular corners**|Jianli Xiang et.al.|[2512.07440](https://arxiv.org/abs/2512.07440)|null|
 |**2025-12-08**|**A tropical formula for non-Archimedean local heights**|José Ignacio Burgos Gil et.al.|[2512.07431](https://arxiv.org/abs/2512.07431)|null|
 |**2025-12-08**|**Dualities of dihedral and generalised quaternion codes and applications to quantum codes**|Miguel Sales-Cabrera et.al.|[2512.07354](https://arxiv.org/abs/2512.07354)|**[link](https://github.com/polyidoit/Arxiv-Quantum)**|
-|**2025-12-08**|**MICo-150K: A Comprehensive Dataset Advancing Multi-Image Composition**|Xinyu Wei et.al.|[2512.07348](https://arxiv.org/abs/2512.07348)|**[link](https://github.com/ZhikangNiu/arxiv_daily)**|
+|**2025-12-08**|**MICo-150K: A Comprehensive Dataset Advancing Multi-Image Composition**|Xinyu Wei et.al.|[2512.07348](https://arxiv.org/abs/2512.07348)|**[link](https://huggingface.co/models/kr-cen/BAGEL-MICo)**|
 |**2025-12-08**|**Self-adjoint realization of the harmonic oscillator in polar coordinates and some consequences**|Krzysztof Stempak et.al.|[2512.07347](https://arxiv.org/abs/2512.07347)|null|
 |**2025-12-08**|**RefLSM: Linearized Structural-Prior Reflectance Model for Medical Image Segmentation and Bias-Field Correction**|Wenqi Zhao et.al.|[2512.07191](https://arxiv.org/abs/2512.07191)|null|
 |**2025-12-08**|**Coarse spaces for virtual element methods on irregular 3D subdomain decompositions**|Ana Aguilar-Pineda et.al.|[2512.07181](https://arxiv.org/abs/2512.07181)|**[link](https://github.com/lowrank/lowrank)**|
@@ -7015,41 +7015,41 @@ layout: default
 |**2025-12-09**|**A Practical Guide for Designing, Developing, and Deploying Production-Grade Agentic AI Workflows**|Eranga Bandara et.al.|[2512.08769](https://arxiv.org/abs/2512.08769)|null|
 |**2025-12-09**|**Insured Agents: A Decentralized Trust Insurance Mechanism for Agentic Economy**|Botao 'Amber' Hu et.al.|[2512.08737](https://arxiv.org/abs/2512.08737)|**[link](https://github.com/Aaron617/agent-arXiv-daily)**|
 |**2025-12-09**|**An Agentic AI System for Multi-Framework Communication Coding**|Bohao Yang et.al.|[2512.08659](https://arxiv.org/abs/2512.08659)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2025-12-09**|**NeurIDA: Dynamic Modeling for Effective In-Database Analytics**|Lingze Zeng et.al.|[2512.08483](https://arxiv.org/abs/2512.08483)|**[link](https://github.com/nusdbsystem/NeurIDA)**|
+|**2025-12-09**|**NeurIDA: Dynamic Modeling for Effective In-Database Analytics**|Lingze Zeng et.al.|[2512.08483](https://arxiv.org/abs/2512.08483)|**[link](https://github.com/srinidevar/cs_research_papers)**|
 |**2025-12-09**|**A Multi-Agent LLM Framework for Design Space Exploration in Autonomous Driving Systems**|Po-An Shih et.al.|[2512.08476](https://arxiv.org/abs/2512.08476)|**[link](https://github.com/Blake-Jiang/ad-arxiv-daily)**|
-|**2025-12-09**|**High-performance computing enabled contingency analysis for modern power networks**|Alexandre Gracia-Calvo et.al.|[2512.08465](https://arxiv.org/abs/2512.08465)|null|
+|**2025-12-09**|**High-performance computing enabled contingency analysis for modern power networks**|Alexandre Gracia-Calvo et.al.|[2512.08465](https://arxiv.org/abs/2512.08465)|**[link](https://github.com/Hdksg10/DailyArxiv)**|
 |**2025-12-09**|**From Accuracy to Impact: The Impact-Driven AI Framework (IDAIF) for Aligning Engineering Architecture with Theory of Change**|Yong-Woon Kim et.al.|[2512.08449](https://arxiv.org/abs/2512.08449)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
 |**2025-12-09**|**Fully Decentralized Certified Unlearning**|Hithem Lamri et.al.|[2512.08443](https://arxiv.org/abs/2512.08443)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
 |**2025-12-09**|**Real-time heralded non-Gaussian teleportation resource-state generator**|Joseph C. Chapman et.al.|[2512.08429](https://arxiv.org/abs/2512.08429)|null|
-|**2025-12-09**|**Reflecting with Two Voices: A Co-Adaptive Dual-Strategy Framework for LLM-Based Agent Decision Making**|Wentao Zhang et.al.|[2512.08366](https://arxiv.org/abs/2512.08366)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
+|**2025-12-09**|**Reflecting with Two Voices: A Co-Adaptive Dual-Strategy Framework for LLM-Based Agent Decision Making**|Wentao Zhang et.al.|[2512.08366](https://arxiv.org/abs/2512.08366)|null|
 |**2025-12-09**|**Synergizing Monetization, Orchestration, and Semantics in Computing Continuum**|Chinmaya Kumar Dehury et.al.|[2512.08288](https://arxiv.org/abs/2512.08288)|null|
 |**2025-12-09**|**Chat with UAV -- Human-UAV Interaction Based on Large Language Models**|Haoran Wang et.al.|[2512.08145](https://arxiv.org/abs/2512.08145)|null|
 |**2025-12-08**|**DeepCode: Open Agentic Coding**|Zongwei Li et.al.|[2512.07921](https://arxiv.org/abs/2512.07921)|**[link](https://github.com/HKUDS/DeepCode)**|
 |**2025-12-08**|**An Adaptive Multi-Layered Honeynet Architecture for Threat Behavior Analysis via Deep Learning**|Lukas Johannes Möller et.al.|[2512.07827](https://arxiv.org/abs/2512.07827)|null|
-|**2025-12-08**|**Automating High Energy Physics Data Analysis with LLM-Powered Agents**|Eli Gendreau-Distler et.al.|[2512.07785](https://arxiv.org/abs/2512.07785)|null|
+|**2025-12-08**|**Automating High Energy Physics Data Analysis with LLM-Powered Agents**|Eli Gendreau-Distler et.al.|[2512.07785](https://arxiv.org/abs/2512.07785)|**[link](https://github.com/Aaron617/agent-arXiv-daily)**|
 |**2025-12-08**|**Reliable agent engineering should integrate machine-compatible organizational principles**|R. Patrick Xian et.al.|[2512.07665](https://arxiv.org/abs/2512.07665)|**[link](https://github.com/jyyang621/DailyArXiv)**|
-|**2025-12-08**|**Service Registration, Indexing, Discovery & Selection; An Architectural Survey Toward a GenAI-Driven Future**|Mohammad Farhoudi et.al.|[2512.07638](https://arxiv.org/abs/2512.07638)|**[link](https://github.com/srinidevar/cs_research_papers)**|
+|**2025-12-08**|**Service Registration, Indexing, Discovery & Selection; An Architectural Survey Toward a GenAI-Driven Future**|Mohammad Farhoudi et.al.|[2512.07638](https://arxiv.org/abs/2512.07638)|null|
 |**2025-12-08**|**The Agent Capability Problem: Predicting Solvability Through Information-Theoretic Bounds**|Shahar Lutati et.al.|[2512.07631](https://arxiv.org/abs/2512.07631)|**[link](https://github.com/jyyang621/DailyArXiv)**|
 |**2025-12-08**|**Understanding LLM Agent Behaviours via Game Theory: Strategy Recognition, Biases and Multi-Agent Dynamics**|Trung-Kiet Huynh et.al.|[2512.07462](https://arxiv.org/abs/2512.07462)|**[link](https://github.com/jyyang621/DailyArXiv)**|
 |**2025-12-08**|**DCO: Dynamic Cache Orchestration for LLM Accelerators through Predictive Management**|Zhongchun Zhou et.al.|[2512.07312](https://arxiv.org/abs/2512.07312)|**[link](https://github.com/benwen518/mobile-npu-llm-paper-arxiv)**|
-|**2025-12-08**|**SIT-Graph: State Integrated Tool Graph for Multi-Turn Agents**|Sijia Li et.al.|[2512.07287](https://arxiv.org/abs/2512.07287)|**[link](https://github.com/jyyang621/DailyArXiv)**|
-|**2025-12-07**|**Reformulate, Retrieve, Localize: Agents for Repository-Level Bug Localization**|Genevieve Caumartin et.al.|[2512.07022](https://arxiv.org/abs/2512.07022)|**[link](https://github.com/jyyang621/DailyArXiv)**|
-|**2025-12-07**|**SoK: Trust-Authorization Mismatch in LLM Agent Interactions**|Guanquan Shi et.al.|[2512.06914](https://arxiv.org/abs/2512.06914)|**[link](https://github.com/jyyang621/DailyArXiv)**|
+|**2025-12-08**|**SIT-Graph: State Integrated Tool Graph for Multi-Turn Agents**|Sijia Li et.al.|[2512.07287](https://arxiv.org/abs/2512.07287)|null|
+|**2025-12-07**|**Reformulate, Retrieve, Localize: Agents for Repository-Level Bug Localization**|Genevieve Caumartin et.al.|[2512.07022](https://arxiv.org/abs/2512.07022)|null|
+|**2025-12-07**|**SoK: Trust-Authorization Mismatch in LLM Agent Interactions**|Guanquan Shi et.al.|[2512.06914](https://arxiv.org/abs/2512.06914)|null|
 |**2025-12-07**|**ProAgent: Harnessing On-Demand Sensory Contexts for Proactive LLM Agent Systems**|Bufang Yang et.al.|[2512.06721](https://arxiv.org/abs/2512.06721)|null|
-|**2025-12-07**|**Cognitive Control Architecture (CCA): A Lifecycle Supervision Framework for Robustly Aligned AI Agents**|Zhibo Liang et.al.|[2512.06716](https://arxiv.org/abs/2512.06716)|null|
+|**2025-12-07**|**Cognitive Control Architecture (CCA): A Lifecycle Supervision Framework for Robustly Aligned AI Agents**|Zhibo Liang et.al.|[2512.06716](https://arxiv.org/abs/2512.06716)|**[link](https://github.com/jyyang621/DailyArXiv)**|
 |**2025-12-07**|**PersonaMem-v2: Towards Personalized Intelligence via Learning Implicit User Personas and Agentic Memory**|Bowen Jiang et.al.|[2512.06688](https://arxiv.org/abs/2512.06688)|**[link](https://huggingface.co/datasets/bowen-upenn/PersonaMem-v2)**|
 |**2025-12-07**|**CMV-Fuse: Cross Modal-View Fusion of AMR, Syntax, and Knowledge Representations for Aspect Based Sentiment Analysis**|Smitha Muthya Sudheendra et.al.|[2512.06679](https://arxiv.org/abs/2512.06679)|null|
 |**2025-12-07**|**Learning Relative Gene Expression Trends from Pathology Images in Spatial Transcriptomics**|Kazuya Nishimura et.al.|[2512.06612](https://arxiv.org/abs/2512.06612)|**[link](https://github.com/xiwang3236/Paper)**|
-|**2025-12-06**|**Towards Efficient Hypergraph and Multi-LLM Agent Recommender Systems**|Tendai Mukande et.al.|[2512.06590](https://arxiv.org/abs/2512.06590)|**[link](https://github.com/jyyang621/DailyArXiv)**|
-|**2025-12-06**|**Securing the Model Context Protocol: Defending LLMs Against Tool Poisoning and Adversarial Attacks**|Saeid Jamshidi et.al.|[2512.06556](https://arxiv.org/abs/2512.06556)|**[link](https://github.com/zachysun/DailyArXiv)**|
-|**2025-12-06**|**HiveMind: Contribution-Guided Online Prompt Optimization of LLM Multi-Agent Systems**|Yihan Xia et.al.|[2512.06432](https://arxiv.org/abs/2512.06432)|**[link](https://github.com/jyyang621/DailyArXiv)**|
-|**2025-12-06**|**GENIUS: An Agentic AI Framework for Autonomous Design and Execution of Simulation Protocols**|Mohammad Soleymanibrojeni et.al.|[2512.06404](https://arxiv.org/abs/2512.06404)|**[link](https://github.com/jyyang621/DailyArXiv)**|
-|**2025-12-06**|**LLMCFG-TGen: Using LLM-Generated Control Flow Graphs to Automatically Create Test Cases from Use Cases**|Zhenzhen Yang et.al.|[2512.06401](https://arxiv.org/abs/2512.06401)|**[link](https://github.com/zachysun/DailyArXiv)**|
-|**2025-12-06**|**AgenticCyber: A GenAI-Powered Multi-Agent System for Multimodal Threat Detection and Adaptive Response in Cybersecurity**|Shovan Roy et.al.|[2512.06396](https://arxiv.org/abs/2512.06396)|**[link](https://github.com/jyyang621/DailyArXiv)**|
-|**2025-12-06**|**Automated Data Enrichment using Confidence-Aware Fine-Grained Debate among Open-Source LLMs for Mental Health and Online Safety**|Junyu Mao et.al.|[2512.06227](https://arxiv.org/abs/2512.06227)|**[link](https://github.com/zachysun/DailyArXiv)**|
+|**2025-12-06**|**Towards Efficient Hypergraph and Multi-LLM Agent Recommender Systems**|Tendai Mukande et.al.|[2512.06590](https://arxiv.org/abs/2512.06590)|null|
+|**2025-12-06**|**Securing the Model Context Protocol: Defending LLMs Against Tool Poisoning and Adversarial Attacks**|Saeid Jamshidi et.al.|[2512.06556](https://arxiv.org/abs/2512.06556)|**[link](https://github.com/superqx/arxiv_integrability)**|
+|**2025-12-06**|**HiveMind: Contribution-Guided Online Prompt Optimization of LLM Multi-Agent Systems**|Yihan Xia et.al.|[2512.06432](https://arxiv.org/abs/2512.06432)|null|
+|**2025-12-06**|**GENIUS: An Agentic AI Framework for Autonomous Design and Execution of Simulation Protocols**|Mohammad Soleymanibrojeni et.al.|[2512.06404](https://arxiv.org/abs/2512.06404)|null|
+|**2025-12-06**|**LLMCFG-TGen: Using LLM-Generated Control Flow Graphs to Automatically Create Test Cases from Use Cases**|Zhenzhen Yang et.al.|[2512.06401](https://arxiv.org/abs/2512.06401)|null|
+|**2025-12-06**|**AgenticCyber: A GenAI-Powered Multi-Agent System for Multimodal Threat Detection and Adaptive Response in Cybersecurity**|Shovan Roy et.al.|[2512.06396](https://arxiv.org/abs/2512.06396)|null|
+|**2025-12-06**|**Automated Data Enrichment using Confidence-Aware Fine-Grained Debate among Open-Source LLMs for Mental Health and Online Safety**|Junyu Mao et.al.|[2512.06227](https://arxiv.org/abs/2512.06227)|null|
 |**2025-12-05**|**Enhancing Retrieval-Augmented Generation with Entity Linking for Educational Platforms**|Francesco Granata et.al.|[2512.05967](https://arxiv.org/abs/2512.05967)|**[link](https://github.com/KnowledgeSeeker101-bit/KnowledgeSeeker101-bit)**|
 |**2025-12-05**|**Whatever Remains Must Be True: Filtering Drives Reasoning in LLMs, Shaping Diversity**|Germán Kruszewski et.al.|[2512.05962](https://arxiv.org/abs/2512.05962)|null|
-|**2025-12-05**|**Trusted AI Agents in the Cloud**|Teofil Bodea et.al.|[2512.05951](https://arxiv.org/abs/2512.05951)|null|
+|**2025-12-05**|**Trusted AI Agents in the Cloud**|Teofil Bodea et.al.|[2512.05951](https://arxiv.org/abs/2512.05951)|**[link](https://github.com/Tencent/AI-Infra-Guard)**|
 |**2025-12-05**|**Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures**|Amirkia Rafiei Oskooei et.al.|[2512.05908](https://arxiv.org/abs/2512.05908)|null|
 |**2025-12-05**|**From Text to Returns: Using Large Language Models for Mutual Fund Portfolio Optimization and Risk-Adjusted Allocation**|Abrar Hossain Mufakir Qamar Ansari Haziq Jeelani Monia Digra Fayeq Jeelani Syed et.al.|[2512.05907](https://arxiv.org/abs/2512.05907)|**[link](https://github.com/yanghlll/ArxivDaily-Haolin)**|
 |**2025-12-05**|**InstructMPC: A Human-LLM-in-the-Loop Framework for Context-Aware Power Grid Control**|Ruixiang Wu et.al.|[2512.05876](https://arxiv.org/abs/2512.05876)|**[link](https://github.com/Blake-Jiang/ad-arxiv-daily)**|
@@ -7064,17 +7064,17 @@ layout: default
 |**2025-12-05**|**CureAgent: A Training-Free Executor-Analyst Framework for Clinical Reasoning**|Ting-Ting Xie et.al.|[2512.05576](https://arxiv.org/abs/2512.05576)|**[link](https://github.com/June01/CureAgent)**|
 |**2025-12-05**|**2K-Characters-10K-Stories: A Quality-Gated Stylized Narrative Dataset with Disentangled Control and Sequence Consistency**|Xingxi Yin et.al.|[2512.05557](https://arxiv.org/abs/2512.05557)|null|
 |**2025-12-05**|**Compiler-supported reduced precision and AoS-SoA transformations for heterogeneous hardware**|Pawel K. Radtke et.al.|[2512.05516](https://arxiv.org/abs/2512.05516)|null|
-|**2025-12-05**|**GRASP: Graph Reasoning Agents for Systems Pharmacology with Human-in-the-Loop**|Omid Bazgir et.al.|[2512.05502](https://arxiv.org/abs/2512.05502)|null|
+|**2025-12-05**|**GRASP: Graph Reasoning Agents for Systems Pharmacology with Human-in-the-Loop**|Omid Bazgir et.al.|[2512.05502](https://arxiv.org/abs/2512.05502)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2025-12-05**|**Everything is Context: Agentic File System Abstraction for Context Engineering**|Xiwei Xu et.al.|[2512.05470](https://arxiv.org/abs/2512.05470)|**[link](https://github.com/AIGNE-io/afs-paper)**|
 |**2025-12-05**|**Dynamic Alignment for Collective Agency: Toward a Scalable Self-Improving Framework for Open-Ended LLM Alignment**|Panatchakorn Anantaprayoon et.al.|[2512.05464](https://arxiv.org/abs/2512.05464)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2025-12-05**|**Model Gateway: Model Management Platform for Model-Driven Drug Discovery**|Yan-Shiun Wu et.al.|[2512.05462](https://arxiv.org/abs/2512.05462)|null|
+|**2025-12-05**|**Model Gateway: Model Management Platform for Model-Driven Drug Discovery**|Yan-Shiun Wu et.al.|[2512.05462](https://arxiv.org/abs/2512.05462)|**[link](https://github.com/zhixin612/awesome-papers-LMsys)**|
 |**2025-12-05**|**RevoNAD: Reflective Evolutionary Exploration for Neural Architecture Design**|Gyusam Chang et.al.|[2512.05403](https://arxiv.org/abs/2512.05403)|null|
 |**2025-12-05**|**Please Don't Kill My Vibe: Empowering Agents with Data Flow Control**|Charlie Summers et.al.|[2512.05374](https://arxiv.org/abs/2512.05374)|null|
-|**2025-12-05**|**MCP-AI: Protocol-Driven Intelligence Framework for Autonomous Reasoning in Healthcare**|Zag ElSayed et.al.|[2512.05365](https://arxiv.org/abs/2512.05365)|**[link](https://github.com/zachysun/DailyArXiv)**|
+|**2025-12-05**|**MCP-AI: Protocol-Driven Intelligence Framework for Autonomous Reasoning in Healthcare**|Zag ElSayed et.al.|[2512.05365](https://arxiv.org/abs/2512.05365)|null|
 |**2025-12-04**|**To Think or Not to Think: The Hidden Cost of Meta-Training with Excessive CoT Examples**|Vignesh Kothapalli et.al.|[2512.05318](https://arxiv.org/abs/2512.05318)|null|
-|**2025-12-04**|**WhatsCode: Large-Scale GenAI Deployment for Developer Efficiency at WhatsApp**|Ke Mao et.al.|[2512.05314](https://arxiv.org/abs/2512.05314)|**[link](https://github.com/Blake-Jiang/ad-arxiv-daily)**|
+|**2025-12-04**|**WhatsCode: Large-Scale GenAI Deployment for Developer Efficiency at WhatsApp**|Ke Mao et.al.|[2512.05314](https://arxiv.org/abs/2512.05314)|null|
 |**2025-12-04**|**The Erosion of LLM Signatures: Can We Still Distinguish Human and LLM-Generated Scientific Ideas After Iterative Paraphrasing?**|Sadat Shahriar et.al.|[2512.05311](https://arxiv.org/abs/2512.05311)|null|
-|**2025-12-04**|**Beyond Detection: A Comprehensive Benchmark and Study on Representation Learning for Fine-Grained Webshell Family Classification**|Feijiang Han et.al.|[2512.05288](https://arxiv.org/abs/2512.05288)|**[link](https://github.com/zezhishao/DailyArXiv)**|
+|**2025-12-04**|**Beyond Detection: A Comprehensive Benchmark and Study on Representation Learning for Fine-Grained Webshell Family Classification**|Feijiang Han et.al.|[2512.05288](https://arxiv.org/abs/2512.05288)|null|
 |**2025-12-04**|**Verified VCG and Verified Compiler for Dafny**|Daniel Nezamabadi et.al.|[2512.05262](https://arxiv.org/abs/2512.05262)|null|
 |**2025-12-04**|**Learning to Code with Context: A Study-Based Approach**|Uwe M. Borghoff et.al.|[2512.05242](https://arxiv.org/abs/2512.05242)|**[link](https://github.com/hhhh1138/my_arxiv_daily)**|
 |**2025-12-08**|**MuMeNet: A Network Simulator for Musical Metaverse Communications**|Ali Al Housseini et.al.|[2512.05201](https://arxiv.org/abs/2512.05201)|null|
