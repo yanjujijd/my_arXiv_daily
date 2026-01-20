@@ -336,20 +336,20 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-01-16**|**One LLM to Train Them All: Multi-Task Learning Framework for Fact-Checking**|Malin Astrid Larsson et.al.|[2601.11293](https://arxiv.org/abs/2601.11293)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2026-01-16**|**Context-aware Graph Causality Inference for Few-Shot Molecular Property Prediction**|Van Thuy Hoang et.al.|[2601.11135](https://arxiv.org/abs/2601.11135)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
-|**2026-01-15**|**Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation**|Chongcong Jiang et.al.|[2601.10880](https://arxiv.org/abs/2601.10880)|**[link](https://github.com/liliu-avril/Awesome-Segment-Anything)**|
+|**2026-01-15**|**Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation**|Chongcong Jiang et.al.|[2601.10880](https://arxiv.org/abs/2601.10880)|**[link](https://huggingface.co/models/ChongCong/Medical-SAM3)**|
 |**2026-01-15**|**Reasoning Models Generate Societies of Thought**|Junsol Kim et.al.|[2601.10825](https://arxiv.org/abs/2601.10825)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
 |**2026-01-15**|**LLMs for Game Theory: Entropy-Guided In-Context Learning and Adaptive CoT Reasoning**|Tommaso Felice Banfi et.al.|[2601.10775](https://arxiv.org/abs/2601.10775)|**[link](https://github.com/zachysun/DailyArXiv)**|
 |**2026-01-15**|**Generative AI collective behavior needs an interactionist paradigm**|Laura Ferrarotti et.al.|[2601.10567](https://arxiv.org/abs/2601.10567)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
 |**2026-01-15**|**AI Sycophancy: How Users Flag and Respond**|Kazi Noshin et.al.|[2601.10467](https://arxiv.org/abs/2601.10467)|null|
-|**2026-01-15**|**Global Context Compression with Interleaved Vision-Text Transformation**|Dian Jiao et.al.|[2601.10378](https://arxiv.org/abs/2601.10378)|null|
+|**2026-01-15**|**Global Context Compression with Interleaved Vision-Text Transformation**|Dian Jiao et.al.|[2601.10378](https://arxiv.org/abs/2601.10378)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
 |**2026-01-15**|**Autonomous Quantum Simulation through Large Language Model Agents**|Weitang Li et.al.|[2601.10194](https://arxiv.org/abs/2601.10194)|null|
 |**2026-01-15**|**HOMURA: Taming the Sand-Glass for Time-Constrained LLM Translation via Reinforcement Learning**|Ziang Cui et.al.|[2601.10187](https://arxiv.org/abs/2601.10187)|null|
 |**2026-01-15**|**Beyond Single Prompts: Synergistic Fusion and Arrangement for VICL**|Wenwen Liao et.al.|[2601.10117](https://arxiv.org/abs/2601.10117)|null|
-|**2026-01-15**|**Enhancing Visual In-Context Learning by Multi-Faceted Fusion**|Wenwen Liao et.al.|[2601.10107](https://arxiv.org/abs/2601.10107)|**[link](https://github.com/zhouchanggeng/DailyArXiv)**|
-|**2026-01-15**|**Unlabeled Data Can Provably Enhance In-Context Learning of Transformers**|Renpu Liu et.al.|[2601.10058](https://arxiv.org/abs/2601.10058)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
+|**2026-01-15**|**Enhancing Visual In-Context Learning by Multi-Faceted Fusion**|Wenwen Liao et.al.|[2601.10107](https://arxiv.org/abs/2601.10107)|null|
+|**2026-01-15**|**Unlabeled Data Can Provably Enhance In-Context Learning of Transformers**|Renpu Liu et.al.|[2601.10058](https://arxiv.org/abs/2601.10058)|**[link](https://github.com/NeoFii/DailyArXiv)**|
 |**2026-01-15**|**Instruction Finetuning LLaMA-3-8B Model Using LoRA for Financial Named Entity Recognition**|Zhiming Lian et.al.|[2601.10043](https://arxiv.org/abs/2601.10043)|**[link](https://github.com/NickDee96/ASR-TTS-paper-daily)**|
 |**2026-01-15**|**Memo-SQL: Structured Decomposition and Experience-Driven Self-Correction for Training-Free NL2SQL**|Zerui Yang et.al.|[2601.10011](https://arxiv.org/abs/2601.10011)|**[link](https://github.com/HKUSTDial/NL2SQL_Handbook)**|
-|**2026-01-14**|**Improving Chain-of-Thought for Logical Reasoning via Attention-Aware Intervention**|Nguyen Minh Phuong et.al.|[2601.09805](https://arxiv.org/abs/2601.09805)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
+|**2026-01-14**|**Improving Chain-of-Thought for Logical Reasoning via Attention-Aware Intervention**|Nguyen Minh Phuong et.al.|[2601.09805](https://arxiv.org/abs/2601.09805)|**[link](https://github.com/phuongnm94/aai_for_logical_reasoning)**|
 |**2026-01-14**|**Exploring Fine-Tuning for Tabular Foundation Models**|Aditya Tanna et.al.|[2601.09654](https://arxiv.org/abs/2601.09654)|**[link](https://github.com/NickDee96/ASR-TTS-paper-daily)**|
 |**2026-01-14**|**Population-Aligned Audio Reproduction With LLM-Based Equalizers**|Ioannis Stylianou et.al.|[2601.09448](https://arxiv.org/abs/2601.09448)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
 |**2026-01-14**|**Video-MSR: Benchmarking Multi-hop Spatial Reasoning Capabilities of MLLMs**|Rui Zhu et.al.|[2601.09430](https://arxiv.org/abs/2601.09430)|**[link](https://github.com/tangwen-qian/DailyArXiv)**|
@@ -366,7 +366,7 @@ layout: default
 |**2026-01-12**|**Revealing the Attention Floating Mechanism in Masked Diffusion Models**|Xin Dai et.al.|[2601.07894](https://arxiv.org/abs/2601.07894)|null|
 |**2026-01-11**|**E^2-LLM: Bridging Neural Signals and Interpretable Affective Analysis**|Fei Ma et.al.|[2601.07877](https://arxiv.org/abs/2601.07877)|**[link](https://github.com/randomrisk/NeuroAI-Daily-Arxiv)**|
 |**2026-01-12**|**Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification**|Yahya Masri et.al.|[2601.07790](https://arxiv.org/abs/2601.07790)|**[link](https://github.com/stccenter/Benchmarking-SLMs-and-SRLMs-on-System-Log-Severity-Classification)**|
-|**2026-01-12**|**Enhancing Self-Correction in Large Language Models through Multi-Perspective Reflection**|Mariana Costa et.al.|[2601.07780](https://arxiv.org/abs/2601.07780)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
+|**2026-01-12**|**Enhancing Self-Correction in Large Language Models through Multi-Perspective Reflection**|Mariana Costa et.al.|[2601.07780](https://arxiv.org/abs/2601.07780)|**[link](https://github.com/NeoFii/DailyArXiv)**|
 |**2026-01-12**|**Evaluating the encoding competence of visual language models using uncommon actions**|Chen Ling et.al.|[2601.07737](https://arxiv.org/abs/2601.07737)|**[link](https://github.com/ZhikangNiu/arxiv_daily)**|
 |**2026-01-12**|**OODEval: Evaluating Large Language Models on Object-Oriented Design**|Bingxu Xiao et.al.|[2601.07602](https://arxiv.org/abs/2601.07602)|null|
 |**2026-01-12**|**FROAV: A Framework for RAG Observation and Agent Verification -- Lowering the Barrier to LLM Agent Research**|Tzu-Hsuan Lin et.al.|[2601.07504](https://arxiv.org/abs/2601.07504)|null|
@@ -4000,13 +4000,13 @@ layout: default
 |**2026-01-16**|**Extractive summarization on a CMOS Ising machine**|Ziqing Zeng et.al.|[2601.11491](https://arxiv.org/abs/2601.11491)|null|
 |**2026-01-16**|**Beyond Model Scaling: Test-Time Intervention for Efficient Deep Reasoning**|Qianyue Wang et.al.|[2601.11252](https://arxiv.org/abs/2601.11252)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2026-01-16**|**Backdoor Attacks on Multi-modal Contrastive Learning**|Simi D Kuniyilh et.al.|[2601.11006](https://arxiv.org/abs/2601.11006)|**[link](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers)**|
-|**2026-01-16**|**Graph Neural Network Reveals the Local Cortical Morphology of Brain Aging in Normal Cognition and Alzheimers Disease**|Samuel D. Anderson et.al.|[2601.10912](https://arxiv.org/abs/2601.10912)|null|
+|**2026-01-16**|**Graph Neural Network Reveals the Local Cortical Morphology of Brain Aging in Normal Cognition and Alzheimers Disease**|Samuel D. Anderson et.al.|[2601.10912](https://arxiv.org/abs/2601.10912)|**[link](https://github.com/randomrisk/NeuroAI-Daily-Arxiv)**|
 |**2026-01-15**|**Rigidity theory in statistical inference**|Daniel Irving Bernstein et.al.|[2601.10864](https://arxiv.org/abs/2601.10864)|null|
 |**2026-01-15**|**The Effective Theory of Muon-to-Electron Conversion**|W. C. Haxton et.al.|[2601.10704](https://arxiv.org/abs/2601.10704)|null|
 |**2026-01-15**|**Structure and Diversity Aware Context Bubble Construction for Enterprise Retrieval Augmented Systems**|Amir Khurshid et.al.|[2601.10681](https://arxiv.org/abs/2601.10681)|null|
 |**2026-01-15**|**PACEvolve: Enabling Long-Horizon Progress-Aware Consistent Evolution**|Minghao Yan et.al.|[2601.10657](https://arxiv.org/abs/2601.10657)|null|
 |**2026-01-15**|**Symmetries of Borcherds algebras**|Lisa Carbone et.al.|[2601.10653](https://arxiv.org/abs/2601.10653)|null|
-|**2026-01-15**|**Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering**|Xinyu Zhu et.al.|[2601.10402](https://arxiv.org/abs/2601.10402)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
+|**2026-01-15**|**Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering**|Xinyu Zhu et.al.|[2601.10402](https://arxiv.org/abs/2601.10402)|null|
 |**2026-01-15**|**Global Context Compression with Interleaved Vision-Text Transformation**|Dian Jiao et.al.|[2601.10378](https://arxiv.org/abs/2601.10378)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
 |**2026-01-15**|**On the Capacity of Noisy Frequency-based Channels**|Yuval Gerzon et.al.|[2601.10329](https://arxiv.org/abs/2601.10329)|null|
 |**2026-01-15**|**We Need a More Robust Classifier: Dual Causal Learning Empowers Domain-Incremental Time Series Classification**|Zhipeng Liu et.al.|[2601.10312](https://arxiv.org/abs/2601.10312)|**[link](https://github.com/zezhishao/DailyArXiv)**|
@@ -4021,7 +4021,7 @@ layout: default
 |**2026-01-14**|**MVSS: A Unified Framework for Multi-View Structured Survey Generation**|Yinqi Liu et.al.|[2601.09504](https://arxiv.org/abs/2601.09504)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
 |**2026-01-14**|**Architecture inside the mirage: evaluating generative image models on architectural style, elements, and typologies**|Jamie Magrill et.al.|[2601.09169](https://arxiv.org/abs/2601.09169)|**[link](https://github.com/ZhikangNiu/arxiv_daily)**|
 |**2026-01-14**|**Efficient Multilingual Dialogue Processing via Translation Pipelines and Distilled Language Models**|Santiago Martínez Novoa et.al.|[2601.09059](https://arxiv.org/abs/2601.09059)|**[link](https://github.com/NickDee96/ASR-TTS-paper-daily)**|
-|**2026-01-13**|**Entropy Sentinel: Continuous LLM Accuracy Monitoring from Decoding Entropy Traces in STEM**|Pedro Memoli Buffa et.al.|[2601.09001](https://arxiv.org/abs/2601.09001)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
+|**2026-01-13**|**Entropy Sentinel: Continuous LLM Accuracy Monitoring from Decoding Entropy Traces in STEM**|Pedro Memoli Buffa et.al.|[2601.09001](https://arxiv.org/abs/2601.09001)|**[link](https://github.com/AtharvaDomale/Daily-HuggingFace-AI-Papers)**|
 |**2026-01-12**|**The Semantic Lifecycle in Embodied AI: Acquisition, Representation and Storage via Foundation Models**|Shuai Chen et.al.|[2601.08876](https://arxiv.org/abs/2601.08876)|**[link](https://github.com/BaiShuanghao/my_arXiv_daily)**|
 |**2026-01-13**|**From Rows to Reasoning: A Retrieval-Augmented Multimodal Framework for Spreadsheet Understanding**|Anmol Gulati et.al.|[2601.08741](https://arxiv.org/abs/2601.08741)|**[link](https://github.com/zachysun/DailyArXiv)**|
 |**2026-01-13**|**Lessons from the Field: An Adaptable Lifecycle Approach to Applied Dialogue Summarization**|Kushal Chawla et.al.|[2601.08682](https://arxiv.org/abs/2601.08682)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
@@ -4034,19 +4034,19 @@ layout: default
 |**2026-01-13**|**High-Power Single-Frequency Fiber Amplifiers**|Chun-Wei Chen et.al.|[2601.08471](https://arxiv.org/abs/2601.08471)|null|
 |**2026-01-13**|**AgriLens: Semantic Retrieval in Agricultural Texts Using Topic Modeling and Language Models**|Heba Shakeel et.al.|[2601.08283](https://arxiv.org/abs/2601.08283)|**[link](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news)**|
 |**2026-01-13**|**Markovian Pre-Trained Transformer for Next-Item Recommendation**|Cong Xu et.al.|[2601.08275](https://arxiv.org/abs/2601.08275)|**[link](https://github.com/stephenZkang/recommended-paper-weekly-reading)**|
-|**2026-01-13**|**Improving LLM Reasoning with Homophily-aware Structural and Semantic Text-Attributed Graph Compression**|Zijun Di et.al.|[2601.08187](https://arxiv.org/abs/2601.08187)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
+|**2026-01-13**|**Improving LLM Reasoning with Homophily-aware Structural and Semantic Text-Attributed Graph Compression**|Zijun Di et.al.|[2601.08187](https://arxiv.org/abs/2601.08187)|**[link](https://github.com/NeoFii/DailyArXiv)**|
 |**2026-01-13**|**Embedded AI Companion System on Edge Devices**|Rahul Gupta et.al.|[2601.08128](https://arxiv.org/abs/2601.08128)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
-|**2026-01-13**|**Local-Global Feature Fusion for Subject-Independent EEG Emotion Recognition**|Zheng Zhou et.al.|[2601.08094](https://arxiv.org/abs/2601.08094)|null|
+|**2026-01-13**|**Local-Global Feature Fusion for Subject-Independent EEG Emotion Recognition**|Zheng Zhou et.al.|[2601.08094](https://arxiv.org/abs/2601.08094)|**[link](https://github.com/Danielz-z/LGF-EEG-Emotion)**|
 |**2026-01-12**|**Review of ultrasonic methods for monitoring, damage detection, and processing of lithium-ion batteries throughout their life-cycle**|Simon Montoya-Bedoya et.al.|[2601.08075](https://arxiv.org/abs/2601.08075)|null|
 |**2026-01-12**|**Automating API Documentation from Crowdsourced Knowledge**|Bonan Kou et.al.|[2601.08036](https://arxiv.org/abs/2601.08036)|null|
 |**2026-01-14**|**DYCP: Dynamic Context Pruning for Long-Form Dialogue with LLMs**|Nayoung Choi et.al.|[2601.07994](https://arxiv.org/abs/2601.07994)|null|
-|**2026-01-12**|**SECite: Analyzing and Summarizing Citations in Software Engineering Literature**|Shireesh Reddy Pyreddy et.al.|[2601.07939](https://arxiv.org/abs/2601.07939)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
+|**2026-01-12**|**SECite: Analyzing and Summarizing Citations in Software Engineering Literature**|Shireesh Reddy Pyreddy et.al.|[2601.07939](https://arxiv.org/abs/2601.07939)|null|
 |**2026-01-12**|**Towards Specialized Generalists: A Multi-Task MoE-LoRA Framework for Domain-Specific LLM Adaptation**|Yuxin Yang et.al.|[2601.07935](https://arxiv.org/abs/2601.07935)|**[link](https://github.com/Blake-Jiang/ad-arxiv-daily)**|
 |**2026-01-12**|**Histopathology-centered Computational Evolution of Spatial Omics: Integration, Mapping, and Foundation Models**|Ninghui Hao et.al.|[2601.07826](https://arxiv.org/abs/2601.07826)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4bio)**|
 |**2026-01-12**|**Contrastive Learning with Narrative Twins for Modeling Story Salience**|Igor Sterner et.al.|[2601.07765](https://arxiv.org/abs/2601.07765)|**[link](https://github.com/igorsterner/NarrativeTwins)**|
 |**2026-01-12**|**Dynamic $(Δ+ 1)$ Vertex Coloring**|Noam Benson-Tilsen et.al.|[2601.07566](https://arxiv.org/abs/2601.07566)|null|
-|**2026-01-12**|**Explaining Machine Learning Predictive Models through Conditional Expectation Methods**|Silvia Ruiz-España et.al.|[2601.07313](https://arxiv.org/abs/2601.07313)|null|
-|**2026-01-12**|**ColorBrowserAgent: An Intelligent GUI Agent for Complex Long-Horizon Web Automation**|Jiamu Zhou et.al.|[2601.07262](https://arxiv.org/abs/2601.07262)|null|
+|**2026-01-12**|**Explaining Machine Learning Predictive Models through Conditional Expectation Methods**|Silvia Ruiz-España et.al.|[2601.07313](https://arxiv.org/abs/2601.07313)|**[link](https://github.com/NeoFii/DailyArXiv)**|
+|**2026-01-12**|**ColorBrowserAgent: An Intelligent GUI Agent for Complex Long-Horizon Web Automation**|Jiamu Zhou et.al.|[2601.07262](https://arxiv.org/abs/2601.07262)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
 |**2026-01-12**|**Bias-Aware BP Decoding of Quantum Codes via Directional Degeneracy**|Mohammad Rowshan et.al.|[2601.07240](https://arxiv.org/abs/2601.07240)|**[link](https://github.com/polyidoit/Arxiv-Quantum)**|
 |**2026-01-12**|**The ICASSP 2026 Automatic Song Aesthetics Evaluation Challenge**|Guobin Ma et.al.|[2601.07237](https://arxiv.org/abs/2601.07237)|**[link](https://github.com/ZhikangNiu/arxiv_daily)**|
 |**2026-01-14**|**Sentiment Analysis on Movie Reviews: A Deep Dive into Modern Techniques and Open Challenges**|Agnivo Gosai et.al.|[2601.07235](https://arxiv.org/abs/2601.07235)|**[link](https://github.com/ZhikangNiu/arxiv_daily)**|
@@ -5796,18 +5796,18 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-01-16**|**Do explanations generalize across large reasoning models?**|Koyena Pal et.al.|[2601.11517](https://arxiv.org/abs/2601.11517)|null|
 |**2026-01-16**|**Efficient error estimators for Generalized Nyström**|Lorenzo Lazzarino et.al.|[2601.11493](https://arxiv.org/abs/2601.11493)|null|
-|**2026-01-16**|**Extractive summarization on a CMOS Ising machine**|Ziqing Zeng et.al.|[2601.11491](https://arxiv.org/abs/2601.11491)|**[link](https://github.com/MayDomine/arxiv_rss_bot)**|
-|**2026-01-16**|**Entanglement complexity of spanning pairs of lattice polygons**|Ryan Blair et.al.|[2601.11481](https://arxiv.org/abs/2601.11481)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4math)**|
+|**2026-01-16**|**Extractive summarization on a CMOS Ising machine**|Ziqing Zeng et.al.|[2601.11491](https://arxiv.org/abs/2601.11491)|null|
+|**2026-01-16**|**Entanglement complexity of spanning pairs of lattice polygons**|Ryan Blair et.al.|[2601.11481](https://arxiv.org/abs/2601.11481)|null|
 |**2026-01-16**|**Globally Optimal Contour Deformations with Neural Networks**|Stephen Jones et.al.|[2601.11448](https://arxiv.org/abs/2601.11448)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4physics)**|
 |**2026-01-16**|**Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps**|Xiangjun Gao et.al.|[2601.11442](https://arxiv.org/abs/2601.11442)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2026-01-16**|**On the Virtual Network Embedding polytope**|Amal Benhamiche et.al.|[2601.11419](https://arxiv.org/abs/2601.11419)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4math)**|
 |**2026-01-16**|**Simulating Quantum Walk Hamiltonians without Pauli Decomposition**|Mostafa Atallah et.al.|[2601.11418](https://arxiv.org/abs/2601.11418)|**[link](https://github.com/Mostafa-Atallah2020/dyn-CTQW)**|
 |**2026-01-16**|**Resolving topological obstructions to vectorial structured field control**|An Aloysius Wang et.al.|[2601.11410](https://arxiv.org/abs/2601.11410)|null|
-|**2026-01-16**|**ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models**|Linqing Zhong et.al.|[2601.11404](https://arxiv.org/abs/2601.11404)|null|
+|**2026-01-16**|**ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models**|Linqing Zhong et.al.|[2601.11404](https://arxiv.org/abs/2601.11404)|**[link](https://github.com/luohongk/Embodied-AI-Daily)**|
 |**2026-01-16**|**FEATHer: Fourier-Efficient Adaptive Temporal Hierarchy Forecaster for Time-Series Forecasting**|Jaehoon Lee et.al.|[2601.11350](https://arxiv.org/abs/2601.11350)|null|
 |**2026-01-16**|**Neural Chain-of-Thought Search: Searching the Optimal Reasoning Path to Enhance Large Language Models**|Guoming Ling et.al.|[2601.11340](https://arxiv.org/abs/2601.11340)|null|
 |**2026-01-16**|**Can Small Agent Collaboration Beat a Single Big LLM?**|Agata Żywot et.al.|[2601.11327](https://arxiv.org/abs/2601.11327)|null|
-|**2026-01-16**|**Enhancing Vision Language Models with Logic Reasoning for Situational Awareness**|Pavana Pradeep et.al.|[2601.11322](https://arxiv.org/abs/2601.11322)|**[link](https://github.com/Ed1sonChen/DailyArxiv)**|
+|**2026-01-16**|**Enhancing Vision Language Models with Logic Reasoning for Situational Awareness**|Pavana Pradeep et.al.|[2601.11322](https://arxiv.org/abs/2601.11322)|null|
 |**2026-01-16**|**A de Rham weight part of Serre's conjecture and generalized mod $p$ BGG decompositions**|Martin Ortiz et.al.|[2601.11271](https://arxiv.org/abs/2601.11271)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4math)**|
 |**2026-01-16**|**Reasoning in Trees: Improving Retrieval-Augmented Generation for Multi-Hop Question Answering**|Yuling Shi et.al.|[2601.11255](https://arxiv.org/abs/2601.11255)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2026-01-16**|**Knot surgery $4$-manifolds $E(n)_K$ without $1$- and $3$ -handles**|Ju A Lee et.al.|[2601.11211](https://arxiv.org/abs/2601.11211)|null|
@@ -5817,7 +5817,7 @@ layout: default
 |**2026-01-16**|**Comprehensive Robust Dynamic Mode Decomposition from Mode Extraction to Dimensional Reduction**|Yuki Nakamura et.al.|[2601.11116](https://arxiv.org/abs/2601.11116)|null|
 |**2026-01-16**|**RidgeWalker: Perfectly Pipelined Graph Random Walks on FPGAs**|Hongshi Tan et.al.|[2601.11057](https://arxiv.org/abs/2601.11057)|null|
 |**2026-01-16**|**AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts**|Keyu Li et.al.|[2601.11044](https://arxiv.org/abs/2601.11044)|**[link](https://huggingface.co/datasets/GAIR/AgencyBench)**|
-|**2026-01-16**|**PruneRAG: Confidence-Guided Query Decomposition Trees for Efficient Retrieval-Augmented Generation**|Shuguang Jiao et.al.|[2601.11024](https://arxiv.org/abs/2601.11024)|**[link](https://github.com/NickDee96/ASR-TTS-paper-daily)**|
+|**2026-01-16**|**PruneRAG: Confidence-Guided Query Decomposition Trees for Efficient Retrieval-Augmented Generation**|Shuguang Jiao et.al.|[2601.11024](https://arxiv.org/abs/2601.11024)|null|
 |**2026-01-16**|**Exact Constraint Enforcement in Physics-Informed Extreme Learning Machines using Null-Space Projection Framework**|Rishi Mishra et.al.|[2601.10999](https://arxiv.org/abs/2601.10999)|**[link](https://github.com/arxivsub/arXivSub_daily_arxiv)**|
 |**2026-01-16**|**The Optimal Control Problem of Stochastic Differential System with Extended Mixed Delays and Applications**|Xinpo Li et.al.|[2601.10990](https://arxiv.org/abs/2601.10990)|null|
 |**2026-01-16**|**A classification of regular maps with Euler characteristic $-p^4$ for a prime $p\geq 5$**|Xiaogang Li et.al.|[2601.10969](https://arxiv.org/abs/2601.10969)|null|
@@ -5827,14 +5827,14 @@ layout: default
 |**2026-01-15**|**Reasoning Models Generate Societies of Thought**|Junsol Kim et.al.|[2601.10825](https://arxiv.org/abs/2601.10825)|null|
 |**2026-01-15**|**Digital Metabolism: Decoupling Logic from Facts via Regenerative Unlearning -- Towards a Pure Neural Logic Core**|Mengmeng Peng et.al.|[2601.10810](https://arxiv.org/abs/2601.10810)|**[link](https://github.com/Tavish9/awesome-daily-AI-arxiv)**|
 |**2026-01-15**|**Exponential gain in clock precision using quantum correlated ticks**|Florian Meier et.al.|[2601.10785](https://arxiv.org/abs/2601.10785)|**[link](https://github.com/polyidoit/Arxiv-Quantum)**|
-|**2026-01-15**|**LLMs for Game Theory: Entropy-Guided In-Context Learning and Adaptive CoT Reasoning**|Tommaso Felice Banfi et.al.|[2601.10775](https://arxiv.org/abs/2601.10775)|**[link](https://github.com/zachysun/DailyArXiv)**|
+|**2026-01-15**|**LLMs for Game Theory: Entropy-Guided In-Context Learning and Adaptive CoT Reasoning**|Tommaso Felice Banfi et.al.|[2601.10775](https://arxiv.org/abs/2601.10775)|null|
 |**2026-01-15**|**DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids**|Navami Kairanda et.al.|[2601.10715](https://arxiv.org/abs/2601.10715)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4physics)**|
 |**2026-01-15**|**Cosmoglobe DR2. VI. Disentangling hot and cold thermal dust emission with Planck HFI**|R. M. Sullivan et.al.|[2601.10640](https://arxiv.org/abs/2601.10640)|null|
 |**2026-01-15**|**ProbFM: Probabilistic Time Series Foundation Model with Uncertainty Decomposition**|Arundeep Chinta et.al.|[2601.10591](https://arxiv.org/abs/2601.10591)|**[link](https://github.com/zezhishao/DailyArXiv)**|
 |**2026-01-15**|**Defending Large Language Models Against Jailbreak Attacks via In-Decoding Safety-Awareness Probing**|Yinzhi Zhao et.al.|[2601.10543](https://arxiv.org/abs/2601.10543)|null|
 |**2026-01-16**|**PERM: Psychology-grounded Empathetic Reward Modeling for Large Language Models**|Chengbing Wang et.al.|[2601.10532](https://arxiv.org/abs/2601.10532)|null|
 |**2026-01-15**|**Stable Differentiable Modal Synthesis for Learning Nonlinear Dynamics**|Victor Zheleznov et.al.|[2601.10453](https://arxiv.org/abs/2601.10453)|null|
-|**2026-01-15**|**Submesoscale and boundary layer turbulence under mesoscale forcing in the upper ocean**|S. Peng et.al.|[2601.10441](https://arxiv.org/abs/2601.10441)|null|
+|**2026-01-15**|**Submesoscale and boundary layer turbulence under mesoscale forcing in the upper ocean**|S. Peng et.al.|[2601.10441](https://arxiv.org/abs/2601.10441)|**[link](https://github.com/YuzeHao2023/daily-arxiv-ai4physics)**|
 |**2026-01-15**|**Spinodal decomposition in filled polymer blends exhibiting upper critical solution temperature behavior**|A. I. Chervanyov et.al.|[2601.10433](https://arxiv.org/abs/2601.10433)|null|
 |**2026-01-15**|**Advanced Manufacturing with Renewable and Bio-based Materials: AI/ML workflows and Process Optimization**|Rigoberto Advincula et.al.|[2601.10382](https://arxiv.org/abs/2601.10382)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
 |**2026-01-15**|**A Hybrid Reliability--Weight Framework for Construction of Polar Codes**|Mohammad Rowshan et.al.|[2601.10376](https://arxiv.org/abs/2601.10376)|**[link](https://github.com/mohammad-rowshan/Mixed-Reliability-Weight-Metric-for-Construction-of-Polar-Codes)**|
@@ -9096,7 +9096,7 @@ layout: default
 |**2026-01-14**|**The AI Hippocampus: How Far are We From Human Memory?**|Zixia Jia et.al.|[2601.09113](https://arxiv.org/abs/2601.09113)|null|
 |**2026-01-14**|**SAM-Aug: Leveraging SAM Priors for Few-Shot Parcel Segmentation in Satellite Time Series**|Kai Hu et.al.|[2601.09110](https://arxiv.org/abs/2601.09110)|null|
 |**2026-01-13**|**Modeling LLM Agent Reviewer Dynamics in Elo-Ranked Review System**|Hsiang-Wei Huang et.al.|[2601.08829](https://arxiv.org/abs/2601.08829)|null|
-|**2026-01-14**|**To Retrieve or To Think? An Agentic Approach for Context Evolution**|Rubing Chen et.al.|[2601.08747](https://arxiv.org/abs/2601.08747)|null|
+|**2026-01-14**|**To Retrieve or To Think? An Agentic Approach for Context Evolution**|Rubing Chen et.al.|[2601.08747](https://arxiv.org/abs/2601.08747)|**[link](https://github.com/masamasa59/ai-agent-papers)**|
 |**2026-01-13**|**Inferring Latent Intentions: Attributional Natural Language Inference in LLM Agents**|Xin Quan et.al.|[2601.08742](https://arxiv.org/abs/2601.08742)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
 |**2026-01-13**|**Data Product MCP: Chat with your Enterprise Data**|Marco Tonnarelli et.al.|[2601.08687](https://arxiv.org/abs/2601.08687)|**[link](https://github.com/gauravfs-14/awesome-mcp)**|
 |**2026-01-13**|**M3-BENCH: Process-Aware Evaluation of LLM Agents Social Behaviors in Mixed-Motive Games**|Sixiong Xie et.al.|[2601.08462](https://arxiv.org/abs/2601.08462)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
@@ -9104,8 +9104,8 @@ layout: default
 |**2026-01-13**|**AtomMem : Learnable Dynamic Agentic Memory with Atomic Memory Operation**|Yupeng Huo et.al.|[2601.08323](https://arxiv.org/abs/2601.08323)|**[link](https://github.com/masamasa59/ai-agent-papers)**|
 |**2026-01-13**|**AgriAgent: Contract-Driven Planning and Capability-Aware Tool Orchestration in Real-World Agriculture**|Bo Yang et.al.|[2601.08308](https://arxiv.org/abs/2601.08308)|**[link](https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news)**|
 |**2026-01-13**|**OpenMic: A Multi-Agent-Based Stand-Up Comedy Generation System**|Yuyang Wu et.al.|[2601.08288](https://arxiv.org/abs/2601.08288)|**[link](https://github.com/ozancanozdemir/GetDailyMLPapers)**|
-|**2026-01-13**|**ToolACE-MCP: Generalizing History-Aware Routing from MCP Tools to the Agent Web**|Zhiyuan Yao et.al.|[2601.08276](https://arxiv.org/abs/2601.08276)|null|
-|**2026-01-13**|**Sparsity Is Necessary: Polynomial-Time Stability for Agentic LLMs in Large Action Spaces**|Angshul Majumdar et.al.|[2601.08271](https://arxiv.org/abs/2601.08271)|null|
+|**2026-01-13**|**ToolACE-MCP: Generalizing History-Aware Routing from MCP Tools to the Agent Web**|Zhiyuan Yao et.al.|[2601.08276](https://arxiv.org/abs/2601.08276)|**[link](https://github.com/wendell0218/GVA-Survey)**|
+|**2026-01-13**|**Sparsity Is Necessary: Polynomial-Time Stability for Agentic LLMs in Large Action Spaces**|Angshul Majumdar et.al.|[2601.08271](https://arxiv.org/abs/2601.08271)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
 |**2026-01-13**|**SwiftMem: Fast Agentic Memory via Query-aware Indexing**|Anxin Tian et.al.|[2601.08160](https://arxiv.org/abs/2601.08160)|null|
 |**2026-01-13**|**Project Synapse: A Hierarchical Multi-Agent Framework with Hybrid Memory for Autonomous Resolution of Last-Mile Delivery Disruptions**|Arin Gopalan Yadav et.al.|[2601.08156](https://arxiv.org/abs/2601.08156)|**[link](https://github.com/tmgthb/Autonomous-Agents)**|
 |**2026-01-13**|**Emergent Coordination in Multi-Agent Systems via Pressure Fields and Temporal Decay**|Roland Rodriguez et.al.|[2601.08129](https://arxiv.org/abs/2601.08129)|null|
